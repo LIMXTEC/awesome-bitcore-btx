@@ -9,9 +9,7 @@ Contributions are always welcome!
 ## Contents
 * [Introduction](#introduction)
 * [General](#general)
-* [Demos](#demos)
-* [Sample Projects](#sample-projects)
-* [Libraries](#libraries)
+* [Wallets](#wallets)
 * [Exchanges](#Exchanges)
 * [Videos](#videos)
 * [Articles](#articles)
@@ -39,12 +37,12 @@ All script is provided AS IS with no support or warranties.
 * [Bitcore ANN](https://bitcointalk.org/index.php?topic=1883902.0) Bitcore Bitcointalk Thread
 * [Bitcore Github](https://github.com/LIMXTEC/BitCore/releases/) Bitcore Github Repo
 
-
-## Demos
-
-## Sample Projects
-
-## Libraries
+## Wallets
+* [Bitcore QT Wallet](https://github.com/LIMXTEC/BitCore/releases) Bitcore Github releases
+* [Coinomi Andoird Wallet](https://play.google.com/store/apps/details?id=com.coinomi.wallet) Coinomi Android Wallet
+* [Coinomi iOS Wallet](https://itunes.apple.com/app/coinomi-wallet/id1333588809) Coinomi iOS Wallet
+* [Jaxx Liberty Multi Wallet](https://jaxx.io/jaxx-liberty-beta.html) Jaxx Android, iOS & Desktop Wallet
+* [zeltrez Multi Wallet](https://zeltrez.io/downloads/) zeltrez Win, Mac & Linux Dektop Wallet.
 
 ## Exchanges
 * [Bitexlive](https://bitexlive.com/exchange/BTC-BTX)
@@ -55,18 +53,15 @@ All script is provided AS IS with no support or warranties.
 * [HitBTC](https://hitbtc.com/BTX-to-BTC)
 * [Tradesatoshi](https://tradesatoshi.com/Exchange/?market=BTX_BTC)
 
-
 ## Videos
 * [Bitcore Youtube GER](https://www.youtube.com/channel/UCwP0QP-GUKI2l0r6FQQEf_g) Bitcore German Youtube Channel
 * [Bitcore Yutube ENG](https://www.youtube.com/channel/UCQ8pXce5-yN4LCtA6RzcZvQ) Bitcore German Youtube Channel
-
 
 ## Articles
 * [BTC-Echo article](https://www.btc-echo.de/muss-es-immer-ein-hardfork-sein-nein-bitcore-btx-legt-seit-april-vor/) Muss es immer ein Hardfork sein? Nein! – Bitcore (BTX) legt seit April vor - OCT 12, 2017
 * [Cointelegraph article](https://www.cointelegraph.com/press-releases/bitcore-a-lightning-fast-solution-to-the-scaling-debate) Bitcore: Winning the Scaling Race with Earth Shattering Speed - OCT 21, 2017
 * [CCN article](https://www.ccn.com/bitcore-winning-scaling-race-earth-shattering-speed/) Bitcore: Winning the Scaling Race with Earth Shattering Speed - OCT 27, 2017
 * [Jimmy Song Medium](https://medium.com/@jimmysong/bitcoin-diamond-super-bitcoin-bitcore-what-you-need-to-know-f49c35688a39) Bitcoin Diamond/Super Bitcoin/BitCore: What You Need To Know - JAN 3, 2018
-
 
 ## Podcasts
 
@@ -95,7 +90,6 @@ All script is provided AS IS with no support or warranties.
 * [Suprnova](https://btx.suprnova.cc/)
 * [UMine](http://s.umine.org/)
 * [Poolgpu](http://www.poolgpu.com) - Chinese pool
-
 
 ## Other Awesome Lists
 * [Bitcloud](https://github.com/LIMXTEC/awesome-bitcloud-btdx/) Bitcloud Awesome List
