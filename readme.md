@@ -75,6 +75,8 @@ All script is provided AS IS with no support or warranties.
 * [Coin Boys](https://soundcloud.com/coin-boys/coin-boys-coin-of-the-show-bitcore-wlead-manager-ivo) Coin Boys "Coin of the Show" (BITCORE) w/Lead Manager Ivo
 
 ## Tools
+* [Github btx-convert](https://github.com/LIMXTEC/btx-convert) Bitcore Converter (wallet convert 1 -> 2) - Source Code
+* [Bitcore converter](https://bitcore.cc/btx-converter/) Bitcore Converter (wallet convert 1 -> 2) - Web Version
 
 ## Community
 * [Bitcore Twitter](https://twitter.com/Bitcore_BTX) Bitcore Twitter feed.
