@@ -10,7 +10,8 @@ Contributions are always welcome!
 * [Introduction](#introduction)
 * [General](#general)
 * [Wallets](#wallets)
-* [Exchanges](#Exchanges)
+* [Explorer](#explorer)
+* [Exchanges](#exchanges)
 * [Videos](#videos)
 * [Articles](#articles)
 * [Podcasts](#podcasts)
@@ -52,6 +53,12 @@ All script is provided AS IS with no support or warranties.
 * [Coinexchange](https://www.coinexchange.io/market/BTX/BTC)
 * [HitBTC](https://hitbtc.com/BTX-to-BTC)
 * [Tradesatoshi](https://tradesatoshi.com/Exchange/?market=BTX_BTC)
+
+## Explorer
+* [cryptoID](https://chainz.cryptoid.info/btx/) Bitcore chainz Blockexplorer
+* [Bitcore Livenet](https://bitcore.cc/livenet/) Bitcore show a visual live Network.
+* [Insight Bitcore](https://insight.bitcore.cc/) Bitcore Insight Blockexplorer
+* [Insight zeltrez](https://explorer.btx.zeltrez.io) zeltrez Bitcore Insight Blockexplorer
 
 ## Videos
 * [Bitcore Youtube GER](https://www.youtube.com/channel/UCwP0QP-GUKI2l0r6FQQEf_g) Bitcore German Youtube Channel
