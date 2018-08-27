@@ -11,14 +11,15 @@ Contributions are always welcome!
 * [General](#general)
 * [Demos](#demos)
 * [Sample Projects](#sample-projects)
-* [Extensions](#extensions)
 * [Libraries](#libraries)
+* [Exchanges](#Exchanges)
 * [Videos](#videos)
 * [Articles](#articles)
 * [Podcasts](#podcasts)
 * [Tools](#tools)
 * [Community](#community)
 * [Telegram Channels](#telegram-channels)
+* [Pools](#pools)
 * [Other Awesome Lists](#other-awesome-lists)
 * [Contributing](#contributing)
 
@@ -43,11 +44,22 @@ All script is provided AS IS with no support or warranties.
 
 ## Sample Projects
 
-## Extensions
-
 ## Libraries
 
+## Exchanges
+* [Bitexlive](https://bitexlive.com/exchange/BTC-BTX)
+* [Bit-Z](https://www.bit-z.com/trade/btx_btc)
+* [Cryptopia](https://www.cryptopia.co.nz/Exchange/?market=BTX_BTC)
+* [Crypto-Bridge](https://wallet.crypto-bridge.org/market/BRIDGE.BTX_BRIDGE.BTC)
+* [Coinexchange](https://www.coinexchange.io/market/BTX/BTC)
+* [HitBTC](https://hitbtc.com/BTX-to-BTC)
+* [Tradesatoshi](https://tradesatoshi.com/Exchange/?market=BTX_BTC)
+
+
 ## Videos
+* [Bitcore Youtube GER](https://www.youtube.com/channel/UCwP0QP-GUKI2l0r6FQQEf_g) Bitcore German Youtube Channel
+* [Bitcore Yutube ENG](https://www.youtube.com/channel/UCQ8pXce5-yN4LCtA6RzcZvQ) Bitcore German Youtube Channel
+
 
 ## Articles
 * [BTC-Echo article](https://www.btc-echo.de/muss-es-immer-ein-hardfork-sein-nein-bitcore-btx-legt-seit-april-vor/) Muss es immer ein Hardfork sein? Nein! – Bitcore (BTX) legt seit April vor - OCT 12, 2017
@@ -77,6 +89,13 @@ All script is provided AS IS with no support or warranties.
 * [Telegram (Bahasa)](https://t.me/BITCORE_BTX_BAHASA) Bitcore Telegram Channel Bahasa
 * [Telegram (Romania)](https://t.me/joinchat/EWnofBKiW7b5G3gftSQ4Cg) Bitcore Telegram Channel Romania
 * [Telegram (Mining)](https://t.me/bitcorepool) Bitcorepool Telegram Channel English
+
+## Pools
+* [Bitcorepool](https://www.bitcorepool.cc/)
+* [Suprnova](https://btx.suprnova.cc/)
+* [UMine](http://s.umine.org/)
+* [Poolgpu](http://www.poolgpu.com) - Chinese pool
+
 
 ## Other Awesome Lists
 * [Bitcloud](https://github.com/LIMXTEC/awesome-bitcloud-btdx/) Bitcloud Awesome List
