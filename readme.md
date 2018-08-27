@@ -17,8 +17,8 @@ Contributions are always welcome!
 * [Articles](#articles)
 * [Podcasts](#podcasts)
 * [Tools](#tools)
-* [Telegram Channels](#telegram-channels)
 * [Community](#community)
+* [Telegram Channels](#telegram-channels)
 * [Other Awesome Lists](#other-awesome-lists)
 * [Contributing](#contributing)
 
@@ -55,6 +55,9 @@ All script is provided AS IS with no support or warranties.
 
 ## Tools
 
+## Community
+* [Bitcore Twitter](https://twitter.com/Bitcore_BTX) Bitcore Twitter feed.
+
 ## Telegram Channels
 * [Telegram (English)](https://t.me/bitcore_btx_official) Bitcore Telegram Channel English
 * [Telegram (Spanish)](https://t.me/joinchat/CXvK0A9M8q5hIq7fGQiJTQ) Bitcore Telegram Channel Spain
@@ -66,9 +69,6 @@ All script is provided AS IS with no support or warranties.
 * [Telegram (Ukraine)](https://t.me/bitcoreukraine) Bitcore Telegram Channel Ukraine
 * [Telegram (Bahasa)](https://t.me/BITCORE_BTX_BAHASA) Bitcore Telegram Channel Bahasa
 * [Telegram (Romania)](https://t.me/joinchat/EWnofBKiW7b5G3gftSQ4Cg) Bitcore Telegram Channel Romania
-  
-## Community
-* [Bitcore Twitter](https://twitter.com/Bitcore_BTX) Bitcore Twitter feed.
 
 ## Other Awesome Lists
 * [Bitcloud](https://github.com/LIMXTEC/awesome-bitcloud-btdx/) Bitcloud Awesome List
