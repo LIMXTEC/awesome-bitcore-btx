@@ -40,7 +40,7 @@ All script is provided AS IS with no support or warranties.
 
 ## Wallets
 * [Bitcore QT Wallet](https://github.com/LIMXTEC/BitCore/releases) Bitcore Github releases
-* [Coinomi Andoird Wallet](https://play.google.com/store/apps/details?id=com.coinomi.wallet) Coinomi Android Wallet
+* [Coinomi Android Wallet](https://play.google.com/store/apps/details?id=com.coinomi.wallet) Coinomi Android Wallet
 * [Coinomi iOS Wallet](https://itunes.apple.com/app/coinomi-wallet/id1333588809) Coinomi iOS Wallet
 * [Jaxx Liberty Multi Wallet](https://jaxx.io/jaxx-liberty-beta.html) Jaxx Android, iOS & Desktop Wallet
 * [zeltrez Multi Wallet](https://zeltrez.io/downloads/) zeltrez Win, Mac & Linux Dektop Wallet.
@@ -62,7 +62,7 @@ All script is provided AS IS with no support or warranties.
 
 ## Videos
 * [Bitcore Youtube GER](https://www.youtube.com/channel/UCwP0QP-GUKI2l0r6FQQEf_g) Bitcore German Youtube Channel
-* [Bitcore Yutube ENG](https://www.youtube.com/channel/UCQ8pXce5-yN4LCtA6RzcZvQ) Bitcore German Youtube Channel
+* [Bitcore Yutube ENG](https://www.youtube.com/channel/UCQ8pXce5-yN4LCtA6RzcZvQ) Bitcore English Youtube Channel
 
 ## Articles
 * [BTC-Echo article](https://www.btc-echo.de/muss-es-immer-ein-hardfork-sein-nein-bitcore-btx-legt-seit-april-vor/) Muss es immer ein Hardfork sein? Nein! – Bitcore (BTX) legt seit April vor - OCT 12, 2017
@@ -71,6 +71,8 @@ All script is provided AS IS with no support or warranties.
 * [Jimmy Song Medium](https://medium.com/@jimmysong/bitcoin-diamond-super-bitcoin-bitcore-what-you-need-to-know-f49c35688a39) Bitcoin Diamond/Super Bitcoin/BitCore: What You Need To Know - JAN 3, 2018
 
 ## Podcasts
+* [Crypto Anomaly Show](https://soundcloud.com/crypto-anomaly/exploring-the-bitcore-btx-with-ivo) The Crypto Anomaly Show Exploring The Bitcore [BTX] with Ivo
+* [Coin Boys](https://soundcloud.com/coin-boys/coin-boys-coin-of-the-show-bitcore-wlead-manager-ivo) Coin Boys "Coin of the Show" (BITCORE) w/Lead Manager Ivo
 
 ## Tools
 
