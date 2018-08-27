@@ -36,7 +36,8 @@ All script is provided AS IS with no support or warranties.
 [ ]
 
 ### Network Details
-* MainNet : Magic=0xf9,0xbe,0xb4,0xd9, Port=8555, Seed=seed.bitcore.biz, Genesis=0x604148281e5c4b7f2487e5d03cd60d8e6f69411d613f6448034508cea52e9574,  PUBKEY_ADDRESS = 3, SCRIPT_ADDRESS = 125, Pub=0x04, 0x88, 0xB2, 0x1E, Sec=0x04, 0x88, 0xAD, 0xE4, 
+* MainNetwork Details
+Magic=0xf9,0xbe,0xb4,0xd9, Port=8555, Seed=seed.bitcore.biz, PUBKEY_ADDRESS = 3, SCRIPT_ADDRESS = 125, Genesis=0x604148281e5c4b7f2487e5d03cd60d8e6f69411d613f6448034508cea52e9574, Pub=0x04, 0x88, 0xB2, 0x1E, Sec=0x04, 0x88, 0xAD, 0xE4, 
 
 ## General
 * [Bitcore Webpage](https://bitcore.cc/) Bitcore BTX Webpage with all Infos about.
