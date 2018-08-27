@@ -56,8 +56,8 @@ All script is provided AS IS with no support or warranties.
 
 ## Other Awesome Lists
 * [Bitcloud](https://github.com/LIMXTEC/awesome-bitcloud-btdx/) Bitcloud Awesome List
-* [Bitsend](https://github.com/LIMXTEC/awesome-bitsend-bsd/) Bitcloud Awesome List
-* [Megacoin](https://github.com/LIMXTEC/awesome-megacoin-mec/) Bitcloud Awesome List
+* [Bitsend](https://github.com/LIMXTEC/awesome-bitsend-bsd/) Bitsend Awesome List
+* [Megacoin](https://github.com/LIMXTEC/awesome-megacoin-mec/) Megacoin Awesome List
 
 ## Contributing
 Please see [CONTRIBUTING](https://github.com/LIMXTEC/awesome-bitcore-btx/blob/master/contributing.md) for details.
