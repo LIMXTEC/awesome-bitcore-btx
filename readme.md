@@ -50,13 +50,20 @@ All script is provided AS IS with no support or warranties.
 ## Videos
 
 ## Articles
-  
+* [BTC-Echo article](https://www.btc-echo.de/muss-es-immer-ein-hardfork-sein-nein-bitcore-btx-legt-seit-april-vor/) Muss es immer ein Hardfork sein? Nein! – Bitcore (BTX) legt seit April vor - OCT 12, 2017
+* [Cointelegraph article](https://www.cointelegraph.com/press-releases/bitcore-a-lightning-fast-solution-to-the-scaling-debate) Bitcore: Winning the Scaling Race with Earth Shattering Speed - OCT 21, 2017
+* [CCN article](https://www.ccn.com/bitcore-winning-scaling-race-earth-shattering-speed/) Bitcore: Winning the Scaling Race with Earth Shattering Speed - OCT 27, 2017
+* [Jimmy Song Medium](https://medium.com/@jimmysong/bitcoin-diamond-super-bitcoin-bitcore-what-you-need-to-know-f49c35688a39) Bitcoin Diamond/Super Bitcoin/BitCore: What You Need To Know - JAN 3, 2018
+
+
 ## Podcasts
 
 ## Tools
 
 ## Community
 * [Bitcore Twitter](https://twitter.com/Bitcore_BTX) Bitcore Twitter feed.
+* [Bitcore Facebook](https://facebook.com/groups/Bitcore.BTX) Bitcore Facebook Group.
+* [Bitcore Reddit](https://www.reddit.com/r/bitcore_btx/) Bitcore Reddit.
 
 ## Telegram Channels
 * [Telegram (English)](https://t.me/bitcore_btx_official) Bitcore Telegram Channel English
@@ -69,6 +76,7 @@ All script is provided AS IS with no support or warranties.
 * [Telegram (Ukraine)](https://t.me/bitcoreukraine) Bitcore Telegram Channel Ukraine
 * [Telegram (Bahasa)](https://t.me/BITCORE_BTX_BAHASA) Bitcore Telegram Channel Bahasa
 * [Telegram (Romania)](https://t.me/joinchat/EWnofBKiW7b5G3gftSQ4Cg) Bitcore Telegram Channel Romania
+* [Telegram (Mining)](https://t.me/bitcorepool) Bitcorepool Telegram Channel English
 
 ## Other Awesome Lists
 * [Bitcloud](https://github.com/LIMXTEC/awesome-bitcloud-btdx/) Bitcloud Awesome List
