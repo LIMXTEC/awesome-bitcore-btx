@@ -12,6 +12,9 @@ Contributions are always welcome!
 * [Wallets](#wallets)
 * [Explorer](#explorer)
 * [Exchanges](#exchanges)
+* [Auto Exchanges](#auto-exchanges)
+* [Bill Service](#bill-service)
+* [Games](#games)
 * [Videos](#videos)
 * [Articles](#articles)
 * [Podcasts](#podcasts)
@@ -45,6 +48,12 @@ All script is provided AS IS with no support or warranties.
 * [Jaxx Liberty Multi Wallet](https://jaxx.io/jaxx-liberty-beta.html) Jaxx Android, iOS & Desktop Wallet
 * [zeltrez Multi Wallet](https://zeltrez.io/downloads/) zeltrez Win, Mac & Linux Dektop Wallet.
 
+## Explorer
+* [cryptoID](https://chainz.cryptoid.info/btx/) Bitcore chainz Blockexplorer
+* [Bitcore Livenet](https://bitcore.cc/livenet/) Bitcore show a visual live Network.
+* [Insight Bitcore](https://insight.bitcore.cc/) Bitcore Insight Blockexplorer
+* [Insight zeltrez](https://explorer.btx.zeltrez.io) zeltrez Bitcore Insight Blockexplorer
+
 ## Exchanges
 * [Bitexlive](https://bitexlive.com/exchange/BTC-BTX)
 * [Bit-Z](https://www.bit-z.com/trade/btx_btc)
@@ -54,11 +63,17 @@ All script is provided AS IS with no support or warranties.
 * [HitBTC](https://hitbtc.com/BTX-to-BTC)
 * [Tradesatoshi](https://tradesatoshi.com/Exchange/?market=BTX_BTC)
 
-## Explorer
-* [cryptoID](https://chainz.cryptoid.info/btx/) Bitcore chainz Blockexplorer
-* [Bitcore Livenet](https://bitcore.cc/livenet/) Bitcore show a visual live Network.
-* [Insight Bitcore](https://insight.bitcore.cc/) Bitcore Insight Blockexplorer
-* [Insight zeltrez](https://explorer.btx.zeltrez.io) zeltrez Bitcore Insight Blockexplorer
+## Auto Exchanges
+* [CryptoChange](https://www.cryptochange.co.za/) Cryptochange - South Africa Bitcoin Exchange
+* [Easyrabbit](https://easyrabbit.net/?buy=btx) Easyrabbit - The easiest way to Exchange Cryptocurrencies
+* [InstaSwap](https://instaswap.io/) InstaSwap - Simple. Fast. Secure.
+
+## Bill Service
+* [kamoney](https://www.kamoney.com.br) kamoney for Brazil
+* [livingroomofsatoshi](https://livingroomofsatoshi.com/) Living Room of Satoshi for Australia
+
+## Games
+* [Luckygames](https://luckygames.io/) Luckygames is a Multicoin Online Casino
 
 ## Videos
 * [Bitcore Youtube GER](https://www.youtube.com/channel/UCwP0QP-GUKI2l0r6FQQEf_g) Bitcore German Youtube Channel
@@ -98,9 +113,10 @@ All script is provided AS IS with no support or warranties.
 
 ## Pools
 * [Bitcorepool](https://www.bitcorepool.cc/)
+* [Poolgpu](http://www.poolgpu.com) - Chinese pool
 * [Suprnova](https://btx.suprnova.cc/)
 * [UMine](http://s.umine.org/)
-* [Poolgpu](http://www.poolgpu.com) - Chinese pool
+* [Yiimp](http://yiimp.eu/)
 
 ## Other Awesome Lists
 * [Bitcloud](https://github.com/LIMXTEC/awesome-bitcloud-btdx/) Bitcloud Awesome List
