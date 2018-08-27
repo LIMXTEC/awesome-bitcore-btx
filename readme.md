@@ -54,4 +54,4 @@ All script is provided AS IS with no support or warranties.
 * [Bitcore Twitter](https://twitter.com/Bitcore_BTX) Bitcore Twitter feed.
 
 ## Contributing
-Please see [CONTRIBUTING](https://github.com/AdrienTorris/awesome-blazor/blob/master/contributing.md) for details.
+Please see [CONTRIBUTING](https://github.com/LIMXTEC/awesome-bitcore-btx/blob/master/contributing.md) for details.
