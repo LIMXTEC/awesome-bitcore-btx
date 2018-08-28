@@ -19,6 +19,7 @@ Contributions are always welcome!
 * [Articles](#articles)
 * [Podcasts](#podcasts)
 * [Tools](#tools)
+* [Dockers Images](#dockers-images)
 * [Community](#community)
 * [Telegram Channels](#telegram-channels)
 * [Pools](#pools)
@@ -87,6 +88,7 @@ MerkleRoot=0x1669526520b4e037738825c5f09c01c8f6ef6a3a5ee552e65e6d0141507987c7
 * [Bitcore QT Wallet](https://github.com/LIMXTEC/BitCore/releases) Bitcore Github releases
 * [Coinomi Android Wallet](https://play.google.com/store/apps/details?id=com.coinomi.wallet) Coinomi Android Wallet
 * [Coinomi iOS Wallet](https://itunes.apple.com/app/coinomi-wallet/id1333588809) Coinomi iOS Wallet
+* [Bitcore electrum](https://github.com/LIMXTEC/electrum-bitcore) Source Code & Windows release
 * [Jaxx Liberty Multi Wallet](https://jaxx.io/jaxx-liberty-beta.html) Jaxx Android, iOS & Desktop Wallet
 * [zeltrez Multi Wallet](https://zeltrez.io/downloads/) zeltrez Win, Mac & Linux Dektop Wallet.
 
@@ -134,6 +136,10 @@ MerkleRoot=0x1669526520b4e037738825c5f09c01c8f6ef6a3a5ee552e65e6d0141507987c7
 ## Tools
 * [Github btx-convert](https://github.com/LIMXTEC/btx-convert) Bitcore Converter (wallet convert 1 -> 2) - Source Code
 * [Bitcore converter](https://bitcore.cc/btx-converter/) Bitcore Converter (wallet convert 1 -> 2) - Web Version
+* [crptwav](https://github.com/StrongSquirrel/crptwav) Library for address validation
+* [GeneralBytes](https://github.com/GENERALBYTESCOM/batm_public) ATM Server / Client Software
+
+## Dockers Images
 
 ## Community
 * [Bitcore Twitter](https://twitter.com/Bitcore_BTX) Bitcore Twitter feed.
