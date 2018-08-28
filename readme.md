@@ -39,15 +39,44 @@ All script is provided AS IS with no support or warranties.
 * MainNetwork Details
 ```
 Network Magic=0xf9,0xbe,0xb4,0xd9,
-Default Port=8555, 
-Seed=seed.bitcore.biz, 
-PUBKEY_ADDRESS = 3, 
-SCRIPT_ADDRESS = 125, 
-Pub=0x04, 0x88, 0xB2, 0x1E, 
-Sec=0x04, 0x88, 0xAD, 0xE4, 
+Default Port=8555,
+Seed=seed.bitcore.biz,
+PUBKEY_ADDRESS = 3,
+SCRIPT_ADDRESS = 125,
+SECRET_KEY = 128,
+Pub=0x04, 0x88, 0xB2, 0x1E
+Sec=0x04, 0x88, 0xAD, 0xE4
 Genesis=0x604148281e5c4b7f2487e5d03cd60d8e6f69411d613f6448034508cea52e9574
 MerkleRoot=0x1669526520b4e037738825c5f09c01c8f6ef6a3a5ee552e65e6d0141507987c7
 ```
+* TestNetwork Details
+```
+Network Magic=0xfb,0xd2,0xc8,0xf1,
+Default Port=8666,
+Seed=188.68.52.172,
+PUBKEY_ADDRESS = 111,
+SCRIPT_ADDRESS = 196,
+SECRET_KEY = 239,
+Pub=0x04, 0x35, 0x87, 0xCF
+Sec=0x04, 0x35, 0x83, 0x94
+Genesis=0x02c5d66e8edb49984eb743c798bca069466ce457b7febfa3c3a01b33353b7bc6
+MerkleRoot=0x0ac58b2cf882f0d25b640d4b22411a22246962aff702064255b2611f48e300ff
+```
+* RegTest Details
+```
+Network Magic=0xfa,0xbf,0xb5,0xda,
+Default Port=19444,
+Seed=,
+PUBKEY_ADDRESS = 111,
+SCRIPT_ADDRESS = 196,
+SECRET_KEY = 239,
+Pub=0x04, 0x35, 0x87, 0xCF
+Sec=0x04, 0x35, 0x83, 0x94
+Genesis=0x604148281e5c4b7f2487e5d03cd60d8e6f69411d613f6448034508cea52e9574
+MerkleRoot=0x1669526520b4e037738825c5f09c01c8f6ef6a3a5ee552e65e6d0141507987c7
+```
+
+
 ## General
 * [Bitcore Webpage](https://bitcore.cc/) Bitcore BTX Webpage with all Infos about.
 * [Bitcore FAQ](https://bitcore.cc/faq/) BitCore FAQ Section.
