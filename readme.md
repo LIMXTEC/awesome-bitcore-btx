@@ -39,14 +39,18 @@ All script is provided AS IS with no support or warranties.
 ### Network Details
 * MainNetwork Details
 ```
-Network Magic=0xf9,0xbe,0xb4,0xd9,
-Default Port=8555,
-Seed=seed.bitcore.biz,
-PUBKEY_ADDRESS = 3,
-SCRIPT_ADDRESS = 125,
-SECRET_KEY = 128,
-Pub=0x04, 0x88, 0xB2, 0x1E
-Sec=0x04, 0x88, 0xAD, 0xE4
+Network Magic = 0xf9, 0xbe, 0xb4, 0xd9
+Default Port = 8555
+Seed = seed.bitcore.biz
+PUBKEY_ADDRESS = 3
+PUBKEY_ADDRESS_HEX = 0x03 
+SCRIPT_ADDRESS = 125
+SCRIPT_ADDRESS_HEX = 0x7D
+SECRET_KEY = 128
+SECRET_KEY_HEX = 0x80
+EXT_PUBLIC_KEY = 0x04, 0x88, 0xB2, 0x1E
+EXT_SECRET_KEY = 0x04, 0x88, 0xAD, 0xE4
+BIP32_PATH = m/44'/160'/0'/
 Genesis=0x604148281e5c4b7f2487e5d03cd60d8e6f69411d613f6448034508cea52e9574
 MerkleRoot=0x1669526520b4e037738825c5f09c01c8f6ef6a3a5ee552e65e6d0141507987c7
 ```
