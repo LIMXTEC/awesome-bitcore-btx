@@ -20,6 +20,7 @@ Contributions are always welcome!
 * [Podcasts](#podcasts)
 * [Tools](#tools)
 * [Dockers Images](#dockers-images)
+* [Development Libraries](#development-libraries)
 * [Community](#community)
 * [Telegram Channels](#telegram-channels)
 * [Pools](#pools)
