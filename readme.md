@@ -134,12 +134,19 @@ MerkleRoot=0x1669526520b4e037738825c5f09c01c8f6ef6a3a5ee552e65e6d0141507987c7
 * [Coin Boys](https://soundcloud.com/coin-boys/coin-boys-coin-of-the-show-bitcore-wlead-manager-ivo) Coin Boys "Coin of the Show" (BITCORE) w/Lead Manager Ivo
 
 ## Tools
-* [Github btx-convert](https://github.com/LIMXTEC/btx-convert) Bitcore Converter (wallet convert 1 -> 2) - Source Code
+* [GitHub btx-convert](https://github.com/LIMXTEC/btx-convert) Bitcore Converter (wallet convert 1 -> 2) - Source Code
 * [Bitcore converter](https://bitcore.cc/btx-converter/) Bitcore Converter (wallet convert 1 -> 2) - Web Version
 * [crptwav](https://github.com/StrongSquirrel/crptwav) Library for address validation
 * [GeneralBytes](https://github.com/GENERALBYTESCOM/batm_public) ATM Server / Client Software
 
 ## Dockers Images
+* [Bitcore Insight Explorer](https://github.com/LIMXTEC/BTXinsight-docker) Bitcore Insight Explorer Docker Solution [(Docker Image)](https://hub.docker.com/r/limxtec/btx-insight-docker/)
+* [Bitcore RPC Server](https://github.com/LIMXTEC/Bitcore-BTX-RPC-Installer) Bitcore RPC Server Docker [(Docker Image)](https://hub.docker.com/r/limxtec/btx-rpc-server/)
+* [Bitcore Seeder](https://github.com/LIMXTEC/bitcore-seeder) Seeder for the Bitcore BTX Network [(Docker Image)](https://hub.docker.com/r/limxtec/bitcore-seeder/)
+* [ElectrumX Server](https://github.com/LIMXTEC/electrumx/tree/master/docker) ElectrumX Server + Bitcore RPC Server Docker Solution [(Docker Image)](https://hub.docker.com/r/limxtec/electrumx/)
+
+## Development Libraries
+* [Bitcore C# lib for .NET](https://github.com/MetacoSA/NBitcoin) Bitcoin/altcoin C# library for the .NET framework
 
 ## Community
 * [Bitcore Twitter](https://twitter.com/Bitcore_BTX) Bitcore Twitter feed.
