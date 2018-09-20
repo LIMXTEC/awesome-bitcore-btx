@@ -9,6 +9,7 @@ Contributions are always welcome!
 ## Contents
 * [Introduction](#introduction)
 * [General](#general)
+* [Whitepaper](#whitepaper)
 * [Wallets](#wallets)
 * [Explorer](#explorer)
 * [Exchanges](#exchanges)
@@ -89,12 +90,16 @@ Genesis = 0x604148281e5c4b7f2487e5d03cd60d8e6f69411d613f6448034508cea52e9574
 MerkleRoot = 0x1669526520b4e037738825c5f09c01c8f6ef6a3a5ee552e65e6d0141507987c7
 ```
 
-
 ## General
 * [Bitcore Webpage](https://bitcore.cc/) Bitcore BTX Webpage with all Infos about.
 * [Bitcore FAQ](https://bitcore.cc/faq/) BitCore FAQ Section.
 * [Bitcore ANN](https://bitcointalk.org/index.php?topic=1883902.0) Bitcore Bitcointalk Thread
 * [Bitcore Github](https://github.com/LIMXTEC/BitCore/releases/) Bitcore Github Repo
+
+## Whitepaper
+* [Bitcore Whitepaper English](https://github.com/dgcarlosleon/Bitcore_White_Paper_ESP_09_2018/releases/download/Bitcore/Bitcore_Whitepaper_09_2018.pdf)
+* [Bitcore Whitepaper Spanish](https://github.com/dgcarlosleon/Bitcore_White_Paper_ESP_09_2018/releases/download/Bitcore/Bitcore_Whitepaper_09_2018_spanish2.pdf)
+* [Bitcore Whitepaper French](https://github.com/dgcarlosleon/Bitcore_White_Paper_ESP_09_2018/releases/download/Bitcore/Bitcore_Whitepaper_09_2018_french.pdf)
 
 ## Wallets
 * [Bitcore QT Wallet](https://github.com/LIMXTEC/BitCore/releases) Bitcore Github releases
@@ -108,7 +113,7 @@ MerkleRoot = 0x1669526520b4e037738825c5f09c01c8f6ef6a3a5ee552e65e6d0141507987c7
 * [cryptoID](https://chainz.cryptoid.info/btx/) Bitcore chainz Blockexplorer
 * [Bitcore Livenet](https://bitcore.cc/livenet/) Bitcore show a visual live Network.
 * [Insight Bitcore](https://insight.bitcore.cc/) Bitcore Insight Blockexplorer
-* [Insight zeltrez](https://explorer.btx.zeltrez.io) zeltrez Bitcore Insight Blockexplorer
+* [Insight Zeltrez](https://explorer.btx.zeltrez.io) Bitcore Insight Blockexplorer
 
 ## Exchanges
 * [Bitexlive](https://bitexlive.com/exchange/BTC-BTX)
@@ -118,18 +123,20 @@ MerkleRoot = 0x1669526520b4e037738825c5f09c01c8f6ef6a3a5ee552e65e6d0141507987c7
 * [Coinexchange](https://www.coinexchange.io/market/BTX/BTC)
 * [HitBTC](https://hitbtc.com/BTX-to-BTC)
 * [Tradesatoshi](https://tradesatoshi.com/Exchange/?market=BTX_BTC)
+* [BITSTEN](https://bitsten.com/exchange/btx_btc)
 
 ## Auto Exchanges
-* [CryptoChange](https://www.cryptochange.co.za/) Cryptochange - South Africa Bitcoin Exchange
+* [CryptoChange](https://www.cryptochange.co.za) Cryptochange - South Africa Bitcoin Exchange
 * [Easyrabbit](https://easyrabbit.net/?buy=btx) Easyrabbit - The easiest way to Exchange Cryptocurrencies
-* [InstaSwap](https://instaswap.io/) InstaSwap - Simple. Fast. Secure.
+* [InstaSwap](https://instaswap.io) InstaSwap - Simple. Fast. Secure.
 
 ## Bill Service
 * [kamoney](https://www.kamoney.com.br) kamoney for Brazil
-* [livingroomofsatoshi](https://livingroomofsatoshi.com/) Living Room of Satoshi for Australia
+* [livingroomofsatoshi](https://livingroomofsatoshi.com) Living Room of Satoshi for Australia
 
 ## Games
-* [Luckygames](https://luckygames.io/) Luckygames is a Multicoin Online Casino
+* [Luckygames](https://luckygames.io) Luckygames is a Multicoin Online Casino
+* [Games4Coins](https://www.games4coins.com/) Service to buy Steam keys with BTX
 
 ## Videos
 * [Bitcore Youtube GER](https://www.youtube.com/channel/UCwP0QP-GUKI2l0r6FQQEf_g) Bitcore German Youtube Channel
