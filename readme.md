@@ -40,15 +40,15 @@ All script is provided AS IS with no support or warranties.
 ### Network Details
 * MainNetwork Details
 ```
-Network Magic = 0xf9, 0xbe, 0xb4, 0xd9
+Network Magic = 0xF9, 0xBE, 0xB4, 0xD9
 Default Port = 8555
 Seed = seed.bitcore.biz
 PUBKEY_ADDRESS = 3
 PUBKEY_ADDRESS_HEX = 0x03 
 SCRIPT_ADDRESS = 125
 SCRIPT_ADDRESS_HEX = 0x7D
-SECRET_KEY = 128
-SECRET_KEY_HEX = 0x80
+SECRET_KEY (WIF) = 128
+SECRET_KEY_HEX (WIF) = 0x80
 EXT_PUBLIC_KEY = 0x04, 0x88, 0xB2, 0x1E
 EXT_SECRET_KEY = 0x04, 0x88, 0xAD, 0xE4
 BIP32_PATH = m/44'/218'/0'/
@@ -57,15 +57,15 @@ MerkleRoot = 0x1669526520b4e037738825c5f09c01c8f6ef6a3a5ee552e65e6d0141507987c7
 ```
 * TestNetwork Details
 ```
-Network Magic = 0xfb, 0xd2, 0xc8, 0xf1
+Network Magic = 0xFB, 0xD2, 0xC8, 0xF1
 Default Port = 8666
 Seed = 188.68.52.172, 51.15.84.165
 PUBKEY_ADDRESS = 111
 PUBKEY_ADDRESS_HEX = 0x6F
 SCRIPT_ADDRESS = 196
 SCRIPT_ADDRESS_HEX = 0xC4
-SECRET_KEY = 239
-SECRET_KEY_HEX = 0xEF
+SECRET_KEY (WIF) = 239
+SECRET_KEY_HEX (WIF) = 0xEF
 EXT_PUBLIC_KEY = 0x04, 0x35, 0x87, 0xCF
 EXT_SECRET_KEY = 0x04, 0x35, 0x83, 0x94
 BIP32_PATH = m/44'/1'/0'/
@@ -74,15 +74,15 @@ MerkleRoot = 0x0ac58b2cf882f0d25b640d4b22411a22246962aff702064255b2611f48e300ff
 ```
 * RegTest Details
 ```
-Network Magic = 0xfa, 0xbf, 0xb5, 0xda
+Network Magic = 0xFA, 0xBF, 0xB5, 0xDA
 Default Port = 19444
 Seed =
 PUBKEY_ADDRESS = 111
 PUBKEY_ADDRESS_HEX = 0x6F
 SCRIPT_ADDRESS = 196
 SCRIPT_ADDRESS_HEX = 0xC4
-SECRET_KEY = 239
-SECRET_KEY_HEX = 0xEF
+SECRET_KEY (WIF) = 239
+SECRET_KEY_HEX (WIF) = 0xEF
 EXT_PUBLIC_KEY = 0x04, 0x35, 0x87, 0xCF
 EXT_SECRET_KEY = 0x04, 0x35, 0x83, 0x94
 Genesis = 0x604148281e5c4b7f2487e5d03cd60d8e6f69411d613f6448034508cea52e9574
