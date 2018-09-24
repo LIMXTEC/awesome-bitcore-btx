@@ -14,6 +14,7 @@ Contributions are always welcome!
 * [Explorer](#explorer)
 * [Exchanges](#exchanges)
 * [Auto Exchanges](#auto-exchanges)
+* [Buy with FIAT](#buy-with-fiat)
 * [Bill Service](#bill-service)
 * [Games](#games)
 * [Videos](#videos)
@@ -30,7 +31,7 @@ Contributions are always welcome!
 
 ## Introduction
 ### What is Bitcore BTX?
-Bitcore is a Opensource and Peer to Peer Cryptocurreny started in Aril 2017 as a Virtual Fork (UXTO Fork) from Bitcoin.
+Bitcore is a Open Source and Peer to Peer Cryptocurreny started in Aril 2017 as a Virtual Fork (UXTO Fork) from Bitcoin.
 
 ### Warning
 All script is provided AS IS with no support or warranties.
@@ -94,10 +95,11 @@ MerkleRoot = 0x1669526520b4e037738825c5f09c01c8f6ef6a3a5ee552e65e6d0141507987c7
 ```
 
 ## General
-* [Bitcore Webpage](https://bitcore.cc/) Bitcore BTX Webpage with all Infos about.
-* [Bitcore FAQ](https://bitcore.cc/faq/) BitCore FAQ Section.
+* [Bitcore Webpage](https://bitcore.cc) Bitcore BTX Webpage with all Infos about.
+* [Bitcore FAQ](https://bitcore.cc/faq) Bitcore FAQ Section.
 * [Bitcore ANN](https://bitcointalk.org/index.php?topic=1883902.0) Bitcore Bitcointalk Thread
-* [Bitcore Github](https://github.com/LIMXTEC/BitCore/releases/) Bitcore Github Repo
+* [Bitcore Github](https://github.com/LIMXTEC/BitCore/releases) Bitcore Github Repo
+* [CoinMarketCap](https://coinmarketcap.com/currencies/bitcore) Bitcore Ranking by Market Capitalization
 
 ## Whitepaper
 * [Bitcore Whitepaper English](https://github.com/dgcarlosleon/Bitcore_White_Paper_ESP_09_2018/releases/download/Bitcore/Bitcore_Whitepaper_09_2018.pdf)
@@ -110,28 +112,31 @@ MerkleRoot = 0x1669526520b4e037738825c5f09c01c8f6ef6a3a5ee552e65e6d0141507987c7
 * [Coinomi iOS Wallet](https://itunes.apple.com/app/coinomi-wallet/id1333588809) Coinomi iOS Wallet
 * [Bitcore electrum](https://github.com/LIMXTEC/electrum-bitcore) Source Code & Windows release
 * [Jaxx Liberty Multi Wallet](https://jaxx.io/jaxx-liberty-beta.html) Jaxx Android, iOS & Desktop Wallet
-* [zeltrez Multi Wallet](https://zeltrez.io/downloads/) zeltrez Win, Mac & Linux Dektop Wallet.
+* [zeltrez Multi Wallet](https://zeltrez.io/downloads) zeltrez Win, Mac & Linux Dektop Wallet.
 
 ## Explorer
-* [cryptoID](https://chainz.cryptoid.info/btx/) Bitcore chainz Blockexplorer
-* [Bitcore Livenet](https://bitcore.cc/livenet/) Bitcore show a visual live Network.
-* [Insight Bitcore](https://insight.bitcore.cc/) Bitcore Insight Blockexplorer
+* [cryptoID](https://chainz.cryptoid.info/btx) Bitcore chainz Blockexplorer
+* [Bitcore Livenet](https://bitcore.cc/livenet) Bitcore show a visual live Network.
+* [Insight Bitcore](https://insight.bitcore.cc) Bitcore Insight Blockexplorer
 * [Insight Zeltrez](https://explorer.btx.zeltrez.io) Bitcore Insight Blockexplorer
 
 ## Exchanges
 * [Bitexlive](https://bitexlive.com/exchange/BTC-BTX)
+* [BITSTEN](https://bitsten.com/exchange/btx_btc)
 * [Bit-Z](https://www.bit-z.com/trade/btx_btc)
 * [Cryptopia](https://www.cryptopia.co.nz/Exchange/?market=BTX_BTC)
 * [Crypto-Bridge](https://wallet.crypto-bridge.org/market/BRIDGE.BTX_BRIDGE.BTC)
 * [Coinexchange](https://www.coinexchange.io/market/BTX/BTC)
 * [HitBTC](https://hitbtc.com/BTX-to-BTC)
 * [Tradesatoshi](https://tradesatoshi.com/Exchange/?market=BTX_BTC)
-* [BITSTEN](https://bitsten.com/exchange/btx_btc)
 
 ## Auto Exchanges
 * [CryptoChange](https://www.cryptochange.co.za) Cryptochange - South Africa Bitcoin Exchange
 * [Easyrabbit](https://easyrabbit.net/?buy=btx) Easyrabbit - The easiest way to Exchange Cryptocurrencies
 * [InstaSwap](https://instaswap.io) InstaSwap - Simple. Fast. Secure.
+
+## Buy with FIAT 
+* [Indiacoin](https://indacoin.com) Buy Cryptocurrency Instantly
 
 ## Bill Service
 * [kamoney](https://www.kamoney.com.br) kamoney for Brazil
@@ -139,16 +144,16 @@ MerkleRoot = 0x1669526520b4e037738825c5f09c01c8f6ef6a3a5ee552e65e6d0141507987c7
 
 ## Games
 * [Luckygames](https://luckygames.io) Luckygames is a Multicoin Online Casino
-* [Games4Coins](https://www.games4coins.com/) Service to buy Steam keys with BTX
+* [Games4Coins](https://www.games4coins.com) Service to buy Steam keys with BTX
 
 ## Videos
 * [Bitcore Youtube GER](https://www.youtube.com/channel/UCwP0QP-GUKI2l0r6FQQEf_g) Bitcore German Youtube Channel
 * [Bitcore Yutube ENG](https://www.youtube.com/channel/UCQ8pXce5-yN4LCtA6RzcZvQ) Bitcore English Youtube Channel
 
 ## Articles
-* [BTC-Echo article](https://www.btc-echo.de/muss-es-immer-ein-hardfork-sein-nein-bitcore-btx-legt-seit-april-vor/) Muss es immer ein Hardfork sein? Nein! – Bitcore (BTX) legt seit April vor - OCT 12, 2017
+* [BTC-Echo article](https://www.btc-echo.de/muss-es-immer-ein-hardfork-sein-nein-bitcore-btx-legt-seit-april-vor) Muss es immer ein Hardfork sein? Nein! – Bitcore (BTX) legt seit April vor - OCT 12, 2017
 * [Cointelegraph article](https://www.cointelegraph.com/press-releases/bitcore-a-lightning-fast-solution-to-the-scaling-debate) Bitcore: Winning the Scaling Race with Earth Shattering Speed - OCT 21, 2017
-* [CCN article](https://www.ccn.com/bitcore-winning-scaling-race-earth-shattering-speed/) Bitcore: Winning the Scaling Race with Earth Shattering Speed - OCT 27, 2017
+* [CCN article](https://www.ccn.com/bitcore-winning-scaling-race-earth-shattering-speed) Bitcore: Winning the Scaling Race with Earth Shattering Speed - OCT 27, 2017
 * [Jimmy Song Medium](https://medium.com/@jimmysong/bitcoin-diamond-super-bitcoin-bitcore-what-you-need-to-know-f49c35688a39) Bitcoin Diamond/Super Bitcoin/BitCore: What You Need To Know - JAN 3, 2018
 
 ## Podcasts
@@ -157,15 +162,16 @@ MerkleRoot = 0x1669526520b4e037738825c5f09c01c8f6ef6a3a5ee552e65e6d0141507987c7
 
 ## Tools
 * [GitHub btx-convert](https://github.com/LIMXTEC/btx-convert) Bitcore Converter (wallet convert 1 -> 2) - Source Code
-* [Bitcore converter](https://bitcore.cc/btx-converter/) Bitcore Converter (wallet convert 1 -> 2) - Web Version
+* [Bitcore converter](https://bitcore.cc/btx-converter) Bitcore Converter (wallet convert 1 -> 2) - Web Version
 * [crptwav](https://github.com/StrongSquirrel/crptwav) Library for address validation
 * [GeneralBytes](https://github.com/GENERALBYTESCOM/batm_public) ATM Server / Client Software
+* [Mnemonic Code Converter](https://iancoleman.io/bip39) A web tool for converting BIP39 mnemonic codes
 
 ## Dockers Images
-* [Bitcore Insight Explorer](https://github.com/LIMXTEC/BTXinsight-docker) Bitcore Insight Explorer Docker Solution [(Docker Image)](https://hub.docker.com/r/limxtec/btx-insight-docker/)
-* [Bitcore RPC Server](https://github.com/LIMXTEC/Bitcore-BTX-RPC-Installer) Bitcore RPC Server Docker [(Docker Image)](https://hub.docker.com/r/limxtec/btx-rpc-server/)
-* [Bitcore Seeder](https://github.com/LIMXTEC/bitcore-seeder) Seeder for the Bitcore BTX Network [(Docker Image)](https://hub.docker.com/r/limxtec/bitcore-seeder/)
-* [ElectrumX Server](https://github.com/LIMXTEC/electrumx/tree/master/docker) ElectrumX Server + Bitcore RPC Server Docker Solution [(Docker Image)](https://hub.docker.com/r/limxtec/electrumx/)
+* [Bitcore Insight Explorer](https://github.com/LIMXTEC/BTXinsight-docker) Bitcore Insight Explorer Docker Solution [(Docker Image)](https://hub.docker.com/r/limxtec/btx-insight-docker)
+* [Bitcore RPC Server](https://github.com/LIMXTEC/Bitcore-BTX-RPC-Installer) Bitcore RPC Server Docker [(Docker Image)](https://hub.docker.com/r/limxtec/btx-rpc-server)
+* [Bitcore Seeder](https://github.com/LIMXTEC/bitcore-seeder) Seeder for the Bitcore BTX Network [(Docker Image)](https://hub.docker.com/r/limxtec/bitcore-seeder)
+* [ElectrumX Server](https://github.com/LIMXTEC/electrumx/tree/master/docker) ElectrumX Server + Bitcore RPC Server Docker Solution [(Docker Image)](https://hub.docker.com/r/limxtec/electrumx)
 
 ## Development Libraries
 * [Bitcore C# lib for .NET](https://github.com/MetacoSA/NBitcoin) Bitcoin/altcoin C# library for the .NET framework
@@ -173,7 +179,8 @@ MerkleRoot = 0x1669526520b4e037738825c5f09c01c8f6ef6a3a5ee552e65e6d0141507987c7
 ## Community
 * [Bitcore Twitter](https://twitter.com/Bitcore_BTX) Bitcore Twitter feed.
 * [Bitcore Facebook](https://facebook.com/groups/Bitcore.BTX) Bitcore Facebook Group.
-* [Bitcore Reddit](https://www.reddit.com/r/bitcore_btx/) Bitcore Reddit.
+* [Bitcore Reddit](https://www.reddit.com/r/bitcore_btx) Bitcore Reddit.
+* [Bitcore Discord](https://discord.gg/zPrUDm) Bitcore Discord Group.
 
 ## Telegram Channels
 * [Telegram (English)](https://t.me/bitcore_btx_official) Bitcore Telegram Channel English
@@ -189,16 +196,25 @@ MerkleRoot = 0x1669526520b4e037738825c5f09c01c8f6ef6a3a5ee552e65e6d0141507987c7
 * [Telegram (Mining)](https://t.me/bitcorepool) Bitcorepool Telegram Channel English
 
 ## Pools
-* [Bitcorepool](https://www.bitcorepool.cc/)
+* [Antminepool](http://antminepool.com)
+* [Bitcorepool](https://www.bitcorepool.cc)
+* [BSOD](https://bsod.pw)
+* [BTXPool](btxpool.org)
+* [Chainworks](http://pool.chainworksindustries.com/btx)
+* [Coin-Miners](https://pool.coin-miners.info)
+* [Deeppool](http://deeppool.co.uk)
+* [Minersport](www.minersport.us)
+* [Omegapool](https://www.omegapool.cc)
 * [Poolgpu](http://www.poolgpu.com) - Chinese pool
-* [Suprnova](https://btx.suprnova.cc/)
-* [UMine](http://s.umine.org/)
-* [Yiimp](http://yiimp.eu/)
+* [Suprnova](https://btx.suprnova.cc)
+* [UMine](http://s.umine.org)
+* [Yiimp](http://yiimp.eu)
+
 
 ## Other Awesome Lists
-* [Bitcloud](https://github.com/LIMXTEC/awesome-bitcloud-btdx/) Bitcloud Awesome List
-* [Bitsend](https://github.com/LIMXTEC/awesome-bitsend-bsd/) Bitsend Awesome List
-* [Megacoin](https://github.com/LIMXTEC/awesome-megacoin-mec/) Megacoin Awesome List
+* [Bitcloud](https://github.com/LIMXTEC/awesome-bitcloud-btdx) Bitcloud Awesome List
+* [BitSend](https://github.com/LIMXTEC/awesome-bitsend-bsd) BitSend Awesome List
+* [Megacoin](https://github.com/LIMXTEC/awesome-megacoin-mec) Megacoin Awesome List
 
 ## Contributing
 Please see [CONTRIBUTING](https://github.com/LIMXTEC/awesome-bitcore-btx/blob/master/contributing.md) for details.
