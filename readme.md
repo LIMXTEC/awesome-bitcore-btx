@@ -85,7 +85,7 @@ All script is provided AS IS with no support or warranties.
 * [InstaSwap](https://instaswap.io) InstaSwap - Simple. Fast. Secure.
 
 ## Buy with FIAT 
-* [Indiacoin](https://indacoin.com) Buy Cryptocurrency Instantly
+* [Indacoin](https://indacoin.com) Buy Cryptocurrency Instantly
 * [PayCml](https://www.paycml.com) - Turkish
 
 ## Bill Service
