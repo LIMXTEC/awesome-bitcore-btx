@@ -41,7 +41,8 @@ All script is provided AS IS with no support or warranties.
 ## General
 * [Bitcore Webpage](https://bitcore.cc) Bitcore BTX Webpage with all Infos about.
 * [Bitcore FAQ](https://bitcore.cc/faq) Bitcore FAQ Section.
-* [Bitcore ANN](https://bitcointalk.org/index.php?topic=1883902.0) Bitcore Bitcointalk Thread
+* [Bitcore ANN English](https://bitcointalk.org/index.php?topic=1883902.0) Bitcore Bitcointalk Thread English
+* [Bitcore ANN Spanish](https://bitcointalk.org/index.php?topic=5027349.msg45579421#msg45579421) Bitcore Bitcointalk Thread Spanish
 * [Bitcore Github](https://github.com/LIMXTEC/BitCore/releases) Bitcore Github Repo
 * [Bitcore Roadmap](https://bitcore.cc/roadmap) Interactive Bitcore Roadmap
 
