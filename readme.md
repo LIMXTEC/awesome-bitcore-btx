@@ -15,6 +15,7 @@ Contributions are always welcome!
 * [Exchanges](#exchanges)
 * [Auto Exchanges](#auto-exchanges)
 * [Buy with FIAT](#buy-with-fiat)
+* [Market Info](#market-info)
 * [Bill Service](#bill-service)
 * [Games](#games)
 * [Videos](#videos)
@@ -23,7 +24,7 @@ Contributions are always welcome!
 * [Community](#community)
 * [Telegram Channels](#telegram-channels)
 * [Pools](#pools)
-* [Tools](#tools)
+* [Tools and Services](#tools-and-services)
 * [Dockers Images](#dockers-images)
 * [Development Libraries](#development-libraries)
 * [Network Details](#network-details)
@@ -42,7 +43,7 @@ All script is provided AS IS with no support or warranties.
 * [Bitcore FAQ](https://bitcore.cc/faq) Bitcore FAQ Section.
 * [Bitcore ANN](https://bitcointalk.org/index.php?topic=1883902.0) Bitcore Bitcointalk Thread
 * [Bitcore Github](https://github.com/LIMXTEC/BitCore/releases) Bitcore Github Repo
-* [CoinMarketCap](https://coinmarketcap.com/currencies/bitcore) Bitcore Ranking by Market Capitalization
+* [Bitcore Roadmap](https://bitcore.cc/roadmap) Interactive Bitcore Roadmap
 
 ## Whitepaper
 * [Bitcore Whitepaper English](https://github.com/dgcarlosleon/Bitcore_White_Paper_ESP_09_2018/releases/download/Bitcore/Bitcore_Whitepaper_09_2018.pdf)
@@ -56,7 +57,7 @@ All script is provided AS IS with no support or warranties.
 * [Coinomi iOS Wallet](https://itunes.apple.com/app/coinomi-wallet/id1333588809) Coinomi iOS Wallet
 * [Bitcore electrum](https://github.com/LIMXTEC/electrum-bitcore) Source Code & Windows release
 * [Jaxx Liberty Multi Wallet](https://jaxx.io/jaxx-liberty-beta.html) Jaxx Android, iOS & Desktop Wallet
-* [zeltrez Multi Wallet](https://zeltrez.io/downloads) zeltrez Win, Mac & Linux Dektop Wallet.
+* [ZeltCore Multi Wallet](https://www.zelcore.io/downloads) ZelCore Win, Mac & Linux Desktop Wallet.
 
 ## Explorer
 * [cryptoID](https://chainz.cryptoid.info/btx) Bitcore chainz Blockexplorer
@@ -73,9 +74,11 @@ All script is provided AS IS with no support or warranties.
 * [Cryptopia](https://www.cryptopia.co.nz/Exchange/?market=BTX_BTC)
 * [Crypto-Bridge](https://wallet.crypto-bridge.org/market/BRIDGE.BTX_BRIDGE.BTC)
 * [Coinexchange](https://www.coinexchange.io/market/BTX/BTC)
+* [Excoincial](https://www.excoincial.com)
 * [EXRATES](https://exrates.me/dashboard) with [AndroidApp](https://play.google.com/store/apps/details?id=lk.exrates.me) and [AppleApp](https://itunes.apple.com/ua/app/exratesme/id1163197277)
 * [HitBTC](https://hitbtc.com/BTX-to-BTC)
 * [Komodo BarterDEX](https://komodoplatform.com/decentralized-exchange) Decentralized Exchange (DEX)
+* [QBTC](https://www.myqbtc.com) - Chinese exchange
 * [Tradesatoshi](https://tradesatoshi.com/Exchange/?market=BTX_BTC)
 * [Vebitcoin](https://www.vebitcoin.com)
 
@@ -87,6 +90,13 @@ All script is provided AS IS with no support or warranties.
 ## Buy with FIAT 
 * [Indacoin](https://indacoin.com) Buy Cryptocurrency Instantly
 * [PayCml](https://www.paycml.com) - Turkish
+
+## Market Info
+* [CoinMarketCap](https://coinmarketcap.com/currencies/bitcore) Bitcore Ranking by Market Capitalization
+* [WorldCoinIndex](https://www.worldcoinindex.com/coin/bitcore) Bitcore price index and market cap
+* [CryptoCompare](https://www.cryptocompare.com/coins/btx/overview/USD) Live Bitcore prices, trades and volumes
+* [ATHCoinIndex](https://athcoinindex.com/currencies/bitcore) Bitcore ATH price & market capitalizations 
+* [Cryptonaut](https://www.cryptonaut.org) Easily track your cryptocurrency portfolio 
 
 ## Bill Service
 * [kamoney](https://www.kamoney.com.br) kamoney for Brazil
@@ -114,7 +124,7 @@ All script is provided AS IS with no support or warranties.
 * [Bitcore Twitter](https://twitter.com/Bitcore_BTX) Bitcore Twitter feed
 * [Bitcore Facebook](https://facebook.com/groups/Bitcore.BTX) Bitcore Facebook Group
 * [Bitcore Reddit](https://www.reddit.com/r/bitcore_btx) Bitcore Reddit
-* [Bitcore Discord](https://discord.gg/zPrUDm) Bitcore Discord Group
+* [Bitcore Discord](https://discord.gg/9chHgCY) Bitcore Discord Group 
 
 ## Telegram Channels
 * [Telegram (English)](https://t.me/bitcore_btx_official) Bitcore Telegram Channel English
@@ -149,8 +159,6 @@ All script is provided AS IS with no support or warranties.
 * [Bitcore converter](https://bitcore.cc/btx-converter) Bitcore Converter (wallet convert 1 -> 2) - Web Version
 * [GeneralBytes](https://github.com/GENERALBYTESCOM/batm_public) ATM Server / Client Software
 * [Mnemonic Code Converter](https://iancoleman.io/bip39) A web tool for converting BIP39 mnemonic codes
-* [ATHCoinIndex](https://athcoinindex.com/currencies/bitcore) Cryptocurrency ATH price & market capitalizations 
-* [Cryptonaut](https://www.cryptonaut.org) Easily track your cryptocurrency portfolio 
 
 
 ## Dockers Images
