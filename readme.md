@@ -194,7 +194,7 @@ MerkleRoot = 0x1669526520b4e037738825c5f09c01c8f6ef6a3a5ee552e65e6d0141507987c7
 ```
 * TestNetwork Details
 ```
-Network Magic = 0xFB, 0xD2, 0xC8, 0xF1
+Network Magic = 0xFD, 0xD2, 0xC8, 0xF1
 Default Port = 8666
 RPC Port = 50332
 Seed = 188.68.52.172, 51.15.84.165
