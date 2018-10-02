@@ -177,6 +177,7 @@ All script is provided AS IS with no support or warranties.
 * MainNetwork Details
 ```
 Network Magic = 0xF9, 0xBE, 0xB4, 0xD9
+MessageMagic = "BitCore Signed Message:\n"
 Default Port = 8555
 RPC Port = 8556
 Seed = seed.bitcore.biz
