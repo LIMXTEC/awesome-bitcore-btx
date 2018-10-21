@@ -28,6 +28,7 @@ Contributions are always welcome!
 * [Dockers Images](#dockers-images)
 * [Development Libraries](#development-libraries)
 * [Network Details](#network-details)
+* [SLIP and BIP Details](#slip-and-bip-details)
 * [Other Awesome Lists](#other-awesome-lists)
 * [Contributing](#contributing)
 
@@ -229,6 +230,13 @@ EXT_SECRET_KEY = 0x04, 0x35, 0x83, 0x94
 Genesis = 0x604148281e5c4b7f2487e5d03cd60d8e6f69411d613f6448034508cea52e9574
 MerkleRoot = 0x1669526520b4e037738825c5f09c01c8f6ef6a3a5ee552e65e6d0141507987c7
 ```
+
+## SLIP and BIP Details
+* [Bitcore coinparams](https://github.com/dan-da/coinparams/blob/master/coins/btx.json) Specific information such as key prefixes, DNS seeds, bip32, bip44, etc, available in JSON format.
+* [Satoshilabs SLIP132/BIP-0032](https://github.com/satoshilabs/slips/blob/master/slip-0132.md#registered-hd-version-bytes) Registered HD version bytes, e.g. xpub, ypub, zpub, Ypub, Zpub
+* [Satoshilabs SLIP-0044/BIP-0044](https://github.com/satoshilabs/slips/blob/master/slip-0044.md) BIP-0044 defines a logical hierarchy for deterministic wallets.
+* [Satoshilabs SLIP173/BIP-0173](https://github.com/satoshilabs/slips/blob/master/slip-0173.md#registered-human-readable-parts) Registered human-readable parts for BIP-0173; for usage in Bech32 encoding of witness programs
+
 
 ## Other Awesome Lists
 * [Bitcloud](https://github.com/LIMXTEC/awesome-bitcloud-btdx) Bitcloud Awesome List
