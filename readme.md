@@ -50,6 +50,7 @@ All script is provided AS IS with no support or warranties.
 * [Bitcore Whitepaper English](https://github.com/dgcarlosleon/Bitcore_White_Paper_ESP_09_2018/releases/download/Bitcore/Bitcore_Whitepaper_09_2018.pdf)
 * [Bitcore Whitepaper Spanish](https://github.com/dgcarlosleon/Bitcore_White_Paper_ESP_09_2018/releases/download/Bitcore/Bitcore_Whitepaper_09_2018_spanish2.pdf)
 * [Bitcore Whitepaper French](https://github.com/dgcarlosleon/Bitcore_White_Paper_ESP_09_2018/releases/download/Bitcore/Bitcore_Whitepaper_09_2018_french.pdf)
+* [Bitcore Whitepaper Turkish](https://github.com/dgcarlosleon/Bitcore_White_Paper_ESP_09_2018/releases/download/Bitcore/Bitcore_Whitepaper_10_2018_TurksihFinal.pdf)
 
 ## Wallets
 * [Paperwallet](https://bitcore.cc/paper) Bitcore Paperwallet Generator
