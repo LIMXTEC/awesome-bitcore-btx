@@ -25,6 +25,7 @@ Contributions are always welcome!
 * [Telegram Channels](#telegram-channels)
 * [Pools](#pools)
 * [Tools and Services](#tools-and-services)
+* [BTCPay Server and Payment Plugins](#BTCPay-Server-and-Payment-Plugins)
 * [Dockers Images](#dockers-images)
 * [Development Libraries](#development-libraries)
 * [Network Details](#network-details)
@@ -32,12 +33,15 @@ Contributions are always welcome!
 * [Other Awesome Lists](#other-awesome-lists)
 * [Contributing](#contributing)
 
+
 ## Introduction
 ### What is Bitcore BTX?
 Bitcore is a Open Source and Peer to Peer Cryptocurreny started in Aril 2017 as a Virtual Fork (UXTO Fork) from Bitcoin.
 
+
 ### Warning
 All script is provided AS IS with no support or warranties.
+
 
 ## General
 * [Bitcore Webpage](https://bitcore.cc) Bitcore BTX Webpage with all Infos about.
@@ -47,11 +51,13 @@ All script is provided AS IS with no support or warranties.
 * [Bitcore Github](https://github.com/LIMXTEC/BitCore/releases) Bitcore Github Repo
 * [Bitcore Roadmap](https://bitcore.cc/roadmap) Interactive Bitcore Roadmap
 
+
 ## Whitepaper
 * [Bitcore Whitepaper English](https://github.com/dgcarlosleon/Bitcore_White_Paper_ESP_09_2018/releases/download/Bitcore/Bitcore_Whitepaper_09_2018.pdf)
 * [Bitcore Whitepaper Spanish](https://github.com/dgcarlosleon/Bitcore_White_Paper_ESP_09_2018/releases/download/Bitcore/Bitcore_Whitepaper_09_2018_spanish2.pdf)
 * [Bitcore Whitepaper French](https://github.com/dgcarlosleon/Bitcore_White_Paper_ESP_09_2018/releases/download/Bitcore/Bitcore_Whitepaper_09_2018_french.pdf)
 * [Bitcore Whitepaper Turkish](https://github.com/dgcarlosleon/Bitcore_White_Paper_ESP_09_2018/releases/download/Bitcore/Bitcore_Whitepaper_10_2018_TurksihFinal.pdf)
+
 
 ## Wallets
 * [Paperwallet](https://bitcore.cc/paper) Bitcore Paperwallet Generator
@@ -62,11 +68,13 @@ All script is provided AS IS with no support or warranties.
 * [Jaxx Liberty Multi Wallet](https://jaxx.io/jaxx-liberty-beta.html) Jaxx Android, iOS & Desktop Wallet
 * [ZeltCore Multi Wallet](https://www.zelcore.io/downloads) ZelCore Win, Mac & Linux Desktop Wallet.
 
+
 ## Explorer
 * [cryptoID](https://chainz.cryptoid.info/btx) Bitcore chainz Blockexplorer
 * [Bitcore Livenet](https://bitcore.cc/livenet) Bitcore show a visual live Network.
 * [Insight Bitcore](https://insight.bitcore.cc) Bitcore Insight Blockexplorer
 * [Insight Zeltrez](https://explorer.btx.zeltrez.io) Bitcore Insight Blockexplorer
+
 
 ## Exchanges
 * [Bitexlive](https://bitexlive.com/exchange/BTC-BTX)
@@ -85,14 +93,17 @@ All script is provided AS IS with no support or warranties.
 * [Tradesatoshi](https://tradesatoshi.com/Exchange/?market=BTX_BTC)
 * [Vebitcoin](https://www.vebitcoin.com)
 
+
 ## Auto Exchanges
 * [CryptoChange](https://www.cryptochange.co.za) Cryptochange - South Africa Bitcoin Exchange
 * [Easyrabbit](https://easyrabbit.net/?buy=btx) Easyrabbit - The easiest way to Exchange Cryptocurrencies
 * [InstaSwap](https://instaswap.io) InstaSwap - Simple. Fast. Secure.
 
+
 ## Buy with FIAT 
 * [Indacoin](https://indacoin.com) Buy Cryptocurrency Instantly
 * [PayCml](https://www.paycml.com) - Turkish
+
 
 ## Market Info
 * [CoinMarketCap](https://coinmarketcap.com/currencies/bitcore) Bitcore Ranking by Market Capitalization
@@ -101,23 +112,28 @@ All script is provided AS IS with no support or warranties.
 * [ATHCoinIndex](https://athcoinindex.com/currencies/bitcore) Bitcore ATH price & market capitalizations 
 * [Cryptonaut](https://www.cryptonaut.org) Easily track your cryptocurrency portfolio 
 
+
 ## Bill Service
 * [kamoney](https://www.kamoney.com.br) kamoney for Brazil
 * [livingroomofsatoshi](https://livingroomofsatoshi.com) Living Room of Satoshi for Australia
+
 
 ## Games
 * [Luckygames](https://luckygames.io) Luckygames is a Multicoin Online Casino
 * [Games4Coins](https://www.games4coins.com) Service to buy Steam keys with BTX
 
+
 ## Videos
 * [Bitcore Youtube GER](https://www.youtube.com/channel/UCwP0QP-GUKI2l0r6FQQEf_g) Bitcore German Youtube Channel
-* [Bitcore Yutube ENG](https://www.youtube.com/channel/UCQ8pXce5-yN4LCtA6RzcZvQ) Bitcore English Youtube Channel
+* [Bitcore Youtube ENG](https://www.youtube.com/channel/UCQ8pXce5-yN4LCtA6RzcZvQ) Bitcore English Youtube Channel
+
 
 ## Articles
 * [BTC-Echo article](https://www.btc-echo.de/muss-es-immer-ein-hardfork-sein-nein-bitcore-btx-legt-seit-april-vor) Muss es immer ein Hardfork sein? Nein! – Bitcore (BTX) legt seit April vor - OCT 12, 2017
 * [Cointelegraph article](https://www.cointelegraph.com/press-releases/bitcore-a-lightning-fast-solution-to-the-scaling-debate) Bitcore: Winning the Scaling Race with Earth Shattering Speed - OCT 21, 2017
 * [CCN article](https://www.ccn.com/bitcore-winning-scaling-race-earth-shattering-speed) Bitcore: Winning the Scaling Race with Earth Shattering Speed - OCT 27, 2017
 * [Jimmy Song Medium](https://medium.com/@jimmysong/bitcoin-diamond-super-bitcoin-bitcore-what-you-need-to-know-f49c35688a39) Bitcoin Diamond/Super Bitcoin/BitCore: What You Need To Know - JAN 3, 2018
+
 
 ## Podcasts
 * [Crypto Anomaly Show](https://soundcloud.com/crypto-anomaly/exploring-the-bitcore-btx-with-ivo) The Crypto Anomaly Show Exploring The Bitcore [BTX] with Ivo
@@ -129,8 +145,9 @@ All script is provided AS IS with no support or warranties.
 * [Bitcore Reddit](https://www.reddit.com/r/bitcore_btx) Bitcore Reddit
 * [Bitcore Discord](https://discord.gg/9chHgCY) Bitcore Discord Group 
 
-## Telegram Channels
-* [Telegram (English)](https://t.me/bitcore_btx_official) Bitcore Telegram Channel English
+
+## Telegram Channels 
+* [Telegram (English)](https://t.me/bitcore_cc) Bitcore Telegram Channel English
 * [Telegram (Spanish)](https://t.me/joinchat/CXvK0A9M8q5hIq7fGQiJTQ) Bitcore Telegram Channel Spain
 * [Telegram (Italian)](https://t.me/joinchat/B-3sTw9IXWvKx1R1-IbKyw) Bitcore Telegram Channel Italian
 * [Telegram (German)](https://t.me/Bitcore_BTX_German) Bitcore Telegram Channel German
@@ -141,6 +158,7 @@ All script is provided AS IS with no support or warranties.
 * [Telegram (Bahasa)](https://t.me/BITCORE_BTX_BAHASA) Bitcore Telegram Channel Bahasa
 * [Telegram (Romania)](https://t.me/joinchat/EWnofBKiW7b5G3gftSQ4Cg) Bitcore Telegram Channel Romania
 * [Telegram (Mining)](https://t.me/bitcorepool) Bitcorepool Telegram Channel English
+
 
 ## Pools
 * [Antminepool](http://antminepool.com)
@@ -157,11 +175,24 @@ All script is provided AS IS with no support or warranties.
 * [UMine](http://s.umine.org)
 * [Yiimp](http://yiimp.eu)
 
-## Tools
+
+## Tools and Services
 * [GitHub btx-convert](https://github.com/LIMXTEC/btx-convert) Bitcore Converter (wallet convert 1 -> 2) - Source Code
 * [Bitcore converter](https://bitcore.cc/btx-converter) Bitcore Converter (wallet convert 1 -> 2) - Web Version
 * [GeneralBytes](https://github.com/GENERALBYTESCOM/batm_public) ATM Server / Client Software
 * [Mnemonic Code Converter](https://iancoleman.io/bip39) A web tool for converting BIP39 mnemonic codes
+
+
+## BTCPay Server and Payment Plugins
+* [BTCPay Server Documentation](https://github.com/btcpayserver/btcpayserver-doc) BTCPay Server is an open-source, self-hosted payment processor for Bitcoin (BTC), Bitcore (BTX), Dash (DASH), Litecoin (LTC), Viacoin (VIA) and other cryptocurrencies.
+* [BTCPay Server Videos](https://www.youtube.com/channel/UCpG9WL6TJuoNfFVkaDMp9ug/videos) BTCPay Server Youtube Channel
+* [BTCPay Server Deployment](https://github.com/btcpayserver/btcpayserver-doc/blob/master/FAQ.md#how-to-install-btcpay-server) How to install BTCPay Server?
+* [BTCPay Server Docker deployment](https://github.com/btcpayserver/btcpayserver-doc/blob/master/DockerDeployment.md) Docker resources for hosting BTCPay Server easily 
+* [BTCPay e-commerce integrations overview](https://github.com/btcpayserver/btcpayserver-doc/blob/master/FAQ.md#what-e-commerce-integrations-are-available) BTCPay has integrations with e-commerce platforms like WordPress/WooCommerce, Magneto, Drupal and Prestashop.
+* [BTCPay WordPress / WooCommerce](https://github.com/btcpayserver/btcpayserver-doc/blob/master/FAQ.md#how-to-use-woocommerce-store-with-btcpay) How to use WooCommerce store with BTCPay?
+* [BTCPay Magneto integration](https://github.com/btcpayserver/btcpayserver-doc/blob/master/Magento.md) How to use BTCPay with Magneto?
+* [BTCPay Drupal integration](https://github.com/btcpayserver/btcpayserver-doc/blob/master/FAQ.md#how-to-use-btcpay-with-drupal) How to use BTCPay with Drupal?
+* [BTCPay Prestashop integration](https://github.com/btcpayserver/btcpayserver-doc/blob/master/FAQ.md#how-to-use-btcpay-with-prestashop) How to use BTCPay with Prestashop?
 
 
 ## Dockers Images
@@ -170,10 +201,12 @@ All script is provided AS IS with no support or warranties.
 * [Bitcore Seeder](https://github.com/LIMXTEC/bitcore-seeder) Seeder for the Bitcore BTX Network [(Docker Image)](https://hub.docker.com/r/limxtec/bitcore-seeder)
 * [ElectrumX Server](https://github.com/LIMXTEC/electrumx/tree/master/docker) ElectrumX Server + Bitcore RPC Server Docker Solution [(Docker Image)](https://hub.docker.com/r/limxtec/electrumx)
 
+
 ## Development Libraries
 * [NBitcoin](https://github.com/MetacoSA/NBitcoin) Bitcoin/altcoin C# library for the .NET framework
 * [pycoin](https://github.com/richardkiss/pycoin) Python-based Bitcoin and alt-coin utility library
 * [crptwav](https://github.com/StrongSquirrel/crptwav) Go library for address validation
+
 
 ## Network Details
 * MainNetwork Details
