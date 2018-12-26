@@ -11,6 +11,7 @@ Contributions are always welcome!
 * [General](#general)
 * [Whitepaper](#whitepaper)
 * [Wallets](#wallets)
+* [Hardware Wallets](#hardware-wallets)
 * [Explorer](#explorer)
 * [Exchanges](#exchanges)
 * [Auto Exchanges](#auto-exchanges)
@@ -67,6 +68,10 @@ All script is provided AS IS with no support or warranties.
 * [Bitcore electrum](https://github.com/LIMXTEC/electrum-bitcore) Source Code & Windows release
 * [Jaxx Liberty Multi Wallet](https://jaxx.io/jaxx-liberty-beta.html) Jaxx Android, iOS & Desktop Wallet
 * [ZeltCore Multi Wallet](https://www.zelcore.io/downloads) ZelCore Win, Mac & Linux Desktop Wallet.
+
+## Hardware Wallets
+* [Trezor](https://trezor.io/coins/#BTX) Hardware Wallet. Bitcore on Trezor works only with Bitcore electrum Wallet.
+* [Ellipal](https://ellipal.com) Hardware Wallet with Mobile App Support to Protect Your Crypto Assets.
 
 
 ## Explorer
