@@ -25,7 +25,7 @@ Contributions are always welcome!
 * [Community](#community)
 * [Telegram Channels](#telegram-channels)
 * [Pools](#pools)
-* [How To Mine Bitcore](#How-to-Mine-Bitcore)
+* [Miner Articles](#Miner-Articles)
 * [Miner for Bitcore](#miner-for-bitcore)
 * [Tools and Services](#tools-and-services)
 * [BTCPay Server and Payment Plugins](#BTCPay-Server-and-Payment-Plugins)
