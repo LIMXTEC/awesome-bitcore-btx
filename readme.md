@@ -25,6 +25,8 @@ Contributions are always welcome!
 * [Community](#community)
 * [Telegram Channels](#telegram-channels)
 * [Pools](#pools)
+* [How To Mine Bitcore](#How-to-Mine-Bitcore)
+* [Miner for Bitcore](#miner-for-bitcore)
 * [Tools and Services](#tools-and-services)
 * [BTCPay Server and Payment Plugins](#BTCPay-Server-and-Payment-Plugins)
 * [Dockers Images](#dockers-images)
@@ -138,17 +140,23 @@ All script is provided AS IS with no support or warranties.
 * [Cointelegraph article](https://www.cointelegraph.com/press-releases/bitcore-a-lightning-fast-solution-to-the-scaling-debate) Bitcore: Winning the Scaling Race with Earth Shattering Speed - OCT 21, 2017
 * [CCN article](https://www.ccn.com/bitcore-winning-scaling-race-earth-shattering-speed) Bitcore: Winning the Scaling Race with Earth Shattering Speed - OCT 27, 2017
 * [Jimmy Song Medium](https://medium.com/@jimmysong/bitcoin-diamond-super-bitcoin-bitcore-what-you-need-to-know-f49c35688a39) Bitcoin Diamond/Super Bitcoin/BitCore: What You Need To Know - JAN 3, 2018
+* [Coin of the Month - Bitcore BTX](https://blog.cryptonaut.org/coin-of-the-month-bitcore-btx/) Cryptonaut Coin of the Month 14 JULY, 2018
+* [Bitcore – Soft2share](http://soft2share.com/bitcore-ico-a-currency-worth-investing/) A Currency Worth Investing - JULY 20, 2018
+* [ 5th Geno Hackathon](https://bitcore.cc/5-genohackathon-bitcore-and-dash-embassy-d-a-ch/) BITCORE BTX and Dash Embassy D-A-CH (Our Team Name was : GENO-Krypto-Applications) win the 5th GENO hackathon. - NOV 18 2018
 
 
 ## Podcasts
 * [Crypto Anomaly Show](https://soundcloud.com/crypto-anomaly/exploring-the-bitcore-btx-with-ivo) The Crypto Anomaly Show Exploring The Bitcore [BTX] with Ivo
 * [Coin Boys](https://soundcloud.com/coin-boys/coin-boys-coin-of-the-show-bitcore-wlead-manager-ivo) Coin Boys "Coin of the Show" (BITCORE) w/Lead Manager Ivo
 
+
 ## Community
 * [Bitcore Twitter](https://twitter.com/Bitcore_BTX) Bitcore Twitter feed
 * [Bitcore Facebook](https://facebook.com/groups/Bitcore.BTX) Bitcore Facebook Group
 * [Bitcore Reddit](https://www.reddit.com/r/bitcore_btx) Bitcore Reddit
 * [Bitcore Discord](https://discord.gg/9chHgCY) Bitcore Discord Group 
+* [Bitcore Instagram](https://www.instagram.com/bitcore.btx)  Bitcore Instagram feed
+* [Bitcore QQ](https://imqq.com/) QQ Group no. 680492670
 
 
 ## Telegram Channels 
@@ -163,6 +171,9 @@ All script is provided AS IS with no support or warranties.
 * [Telegram (Bahasa)](https://t.me/BITCORE_BTX_BAHASA) Bitcore Telegram Channel Bahasa
 * [Telegram (Romania)](https://t.me/joinchat/EWnofBKiW7b5G3gftSQ4Cg) Bitcore Telegram Channel Romania
 * [Telegram (Mining)](https://t.me/bitcorepool) Bitcorepool Telegram Channel English
+* [Telegram (France)](https://t.me/Bitcore_BTX_France) Bitcore Telegram Channel France
+* [Telegram (Venezuela)](https://t.me/Bitcore_BTX_Vzla) Bitcore Telegram Channel Venezuela
+* [Telegram (Argentina)](https://t.me/bitcore_BTX_ARG) Bitcore Telegram Channel Argentina
 
 
 ## Pools
@@ -180,12 +191,21 @@ All script is provided AS IS with no support or warranties.
 * [UMine](http://s.umine.org)
 * [Yiimp](http://yiimp.eu)
 
+## Miner Articles
+* [How to Mine Bitcore](https://blockonomi.com/how-to-mine-bitcore/) How to Mine Bitcore (BTX): Complete Beginner’s Guide JULY 16, 2018 from Zach Hildreth
+
+
+## Miner for Bitcore
+* [T-Rex](https://github.com/trexminer/T-Rex/releases) T-Rex miner for modern NVIDIA GPUs- Maxwell and newer
+* [z-enemy](https://bitcointalk.org/index.php?topic=3378390.0) [Discord](https://discord.gg/JTZm3ra) NVIDIA GPU Miner 
+
 
 ## Tools and Services
 * [GitHub btx-convert](https://github.com/LIMXTEC/btx-convert) Bitcore Converter (wallet convert 1 -> 2) - Source Code
 * [Bitcore converter](https://bitcore.cc/btx-converter) Bitcore Converter (wallet convert 1 -> 2) - Web Version
 * [GeneralBytes](https://github.com/GENERALBYTESCOM/batm_public) ATM Server / Client Software
 * [Mnemonic Code Converter](https://iancoleman.io/bip39) A web tool for converting BIP39 mnemonic codes
+* [Delta Direct](https://delta.app) DELTA Direct ICO & cryptocurrency portfolio tracker
 
 
 ## BTCPay Server and Payment Plugins
