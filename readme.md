@@ -142,7 +142,7 @@ All script is provided AS IS with no support or warranties.
 * [Jimmy Song Medium](https://medium.com/@jimmysong/bitcoin-diamond-super-bitcoin-bitcore-what-you-need-to-know-f49c35688a39) Bitcoin Diamond/Super Bitcoin/BitCore: What You Need To Know - JAN 3, 2018
 * [Coin of the Month - Bitcore BTX](https://blog.cryptonaut.org/coin-of-the-month-bitcore-btx/) Cryptonaut Coin of the Month 14 JULY, 2018
 * [Bitcore – Soft2share](http://soft2share.com/bitcore-ico-a-currency-worth-investing/) A Currency Worth Investing - JULY 20, 2018
-* [ 5th Geno Hackathon](https://bitcore.cc/5-genohackathon-bitcore-and-dash-embassy-d-a-ch/) BITCORE BTX and Dash Embassy D-A-CH (Our Team Name was : GENO-Krypto-Applications) win the 5th GENO hackathon. - NOV 18 2018
+* [.5th Geno Hackathon](https://bitcore.cc/5-genohackathon-bitcore-and-dash-embassy-d-a-ch/) BITCORE BTX and Dash Embassy D-A-CH (Our Team Name was : GENO-Krypto-Applications) win the 5th GENO hackathon. - NOV 18 2018
 
 
 ## Podcasts
