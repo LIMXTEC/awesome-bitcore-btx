@@ -18,23 +18,27 @@ Contributions are always welcome!
 * [Buy with FIAT](#buy-with-fiat)
 * [Market Info](#market-info)
 * [Bill Service](#bill-service)
+* [Payment Solutions](#payment-solutions)
 * [Games](#games)
 * [Videos](#videos)
 * [Articles](#articles)
+* [Portfolio tracker](#portfolio-tracker)
 * [Podcasts](#podcasts)
 * [Community](#community)
 * [Telegram Channels](#telegram-channels)
 * [Pools](#pools)
-* [Miner Articles](#Miner-Articles)
+* [Miner Articles](#miner-articles)
 * [Miner for Bitcore](#miner-for-bitcore)
 * [Tools and Services](#tools-and-services)
-* [BTCPay Server and Payment Plugins](#BTCPay-Server-and-Payment-Plugins)
+* [PayByte Payment Plugins](#paybyte-payment-plugins)
+* [BTCPay Server and Payment Plugins](#btcpay-server-and-payment-plugins)
 * [Dockers Images](#dockers-images)
 * [Development Libraries](#development-libraries)
 * [Network Details](#network-details)
 * [SLIP and BIP Details](#slip-and-bip-details)
 * [Other Awesome Lists](#other-awesome-lists)
 * [Contributing](#contributing)
+* [Graphic Identity and designs](#graphic-identity-and-designs)
 
 
 ## Introduction
@@ -63,17 +67,19 @@ All script is provided AS IS with no support or warranties.
 
 
 ## Wallets
-* [Paperwallet](https://bitcore.cc/paper) Bitcore Paperwallet Generator
+* [Paperwallet](https://bitcore.cc/paper) Bitcore Paperwallet Generator [GitHub BTX-Paperwallet](https://github.com/LIMXTEC/BTX-Paperwallet)
 * [Bitcore QT Wallet](https://github.com/LIMXTEC/BitCore/releases) Bitcore Github releases
-* [Coinomi Android Wallet](https://play.google.com/store/apps/details?id=com.coinomi.wallet) Coinomi Android Wallet
-* [Coinomi iOS Wallet](https://itunes.apple.com/app/coinomi-wallet/id1333588809) Coinomi iOS Wallet
+* [Coinomi Android Wallet](https://play.google.com/store/apps/details?id=com.coinomi.wallet) Coinomi Android wallet
+* [Coinomi iOS Wallet](https://itunes.apple.com/app/coinomi-wallet/id1333588809) Coinomi iOS wallet
 * [Bitcore electrum](https://github.com/LIMXTEC/electrum-bitcore) Source Code & Windows release
-* [Jaxx Liberty Multi Wallet](https://jaxx.io/jaxx-liberty-beta.html) Jaxx Android, iOS & Desktop Wallet
-* [ZeltCore Multi Wallet](https://www.zelcore.io/downloads) ZelCore Win, Mac & Linux Desktop Wallet.
+* [Jaxx Liberty Multi Wallet](https://jaxx.io/jaxx-liberty-beta.html) Jaxx Android, iOS & desktop wallet
+* [ZeltCore Multi Wallet](https://www.zelcore.io/downloads) ZelCore Win, Mac & Linux desktop wallet.
 
 ## Hardware Wallets
-* [Trezor](https://trezor.io/coins/#BTX) Hardware Wallet. Bitcore on Trezor works only with Bitcore electrum Wallet.
-* [Ellipal](https://ellipal.com) Hardware Wallet with Mobile App Support to Protect Your Crypto Assets.
+* [Trezor](https://trezor.io/coins/#BTX) Hardware Wallet. Bitcore on Trezor works only with Bitcore electrum wallet.
+* [Ellipal](https://ellipal.com) Hardware wallet with mobile app support to protect your crypto assets.
+* [Archos Safe T Mini](https://www.archos.com/products/crypto/index.html) Hardware wallet.
+ - [**How to use** Safe T Mini with BTX](https://bitcore.cc/archos-safe-t-mini-supports-btx/) Use Safe T Mini with Bitcore electrum wallet
 
 
 ## Explorer
@@ -99,12 +105,20 @@ All script is provided AS IS with no support or warranties.
 * [QBTC](https://www.myqbtc.com) - Chinese exchange
 * [Tradesatoshi](https://tradesatoshi.com/Exchange/?market=BTX_BTC)
 * [Vebitcoin](https://www.vebitcoin.com)
-
+* [BitBase](https://www.bitbase.es/) BitBase you can buy / sell your cryptocurrencies physically in their stores or on their website
+* [NovaExchange](https://novaexchange.com/market/BTC_BTX/)
 
 ## Auto Exchanges
 * [CryptoChange](https://www.cryptochange.co.za) Cryptochange - South Africa Bitcoin Exchange
 * [Easyrabbit](https://easyrabbit.net/?buy=btx) Easyrabbit - The easiest way to Exchange Cryptocurrencies
 * [InstaSwap](https://instaswap.io) InstaSwap - Simple. Fast. Secure.
+* [SimpleSwap](https://simpleswap.io/) Swap more than 200 cryptocurrencies for $BTX free from sign up, limits or other complications
+
+
+## Portfolio tracker
+
+* [Cryptonaut](https://www.cryptonaut.org) Easily track your cryptocurrency portfolio 
+* [Delta Direct](https://delta.app) DELTA Direct ICO & cryptocurrency portfolio tracker
 
 
 ## Buy with FIAT 
@@ -117,17 +131,21 @@ All script is provided AS IS with no support or warranties.
 * [WorldCoinIndex](https://www.worldcoinindex.com/coin/bitcore) Bitcore price index and market cap
 * [CryptoCompare](https://www.cryptocompare.com/coins/btx/overview/USD) Live Bitcore prices, trades and volumes
 * [ATHCoinIndex](https://athcoinindex.com/currencies/bitcore) Bitcore ATH price & market capitalizations 
-* [Cryptonaut](https://www.cryptonaut.org) Easily track your cryptocurrency portfolio 
 
 
 ## Bill Service
 * [kamoney](https://www.kamoney.com.br) kamoney for Brazil
 * [livingroomofsatoshi](https://livingroomofsatoshi.com) Living Room of Satoshi for Australia
 
+## Payment Solutions
+* [BTCPay](#btcpay-server-and-payment-plugins) BTCPay is multi-tenant open-source payment processor
+* [PayByte](#paybyte-payment-plugins) PayByte is a payment processor for accept cryptopayments
+
 
 ## Games
 * [Luckygames](https://luckygames.io) Luckygames is a Multicoin Online Casino
 * [Games4Coins](https://www.games4coins.com) Service to buy Steam keys with BTX
+* [CryptoCrowns](https://www.cryptocrowns.org/) is a cryptocurrency gambling/bettings website platform featuring unique games among other cryptocurrency players.
 
 
 ## Videos
@@ -143,6 +161,8 @@ All script is provided AS IS with no support or warranties.
 * [Coin of the Month - Bitcore BTX](https://blog.cryptonaut.org/coin-of-the-month-bitcore-btx/) Cryptonaut Coin of the Month 14 JULY, 2018
 * [Bitcore – Soft2share](http://soft2share.com/bitcore-ico-a-currency-worth-investing/) A Currency Worth Investing - JULY 20, 2018
 * [.5th Geno Hackathon](https://bitcore.cc/5-genohackathon-bitcore-and-dash-embassy-d-a-ch/) BITCORE BTX and Dash Embassy D-A-CH (Our Team Name was : GENO-Krypto-Applications) win the 5th GENO hackathon. - NOV 18 2018
+* [Cryptoinnout](http://www.cryptoinnout.com/news-20181107-scalability-problem-and-bitcore-btx-491.html) http://www.cryptoinnout.com/news-20181107 Scalability problem and Bitcore BTX NOV 18 2018
+* [cryptobenelux](https://cryptobenelux.com/2018/11/20/bitcore-english-review/) Bitcore Coin review (English version)
 
 
 ## Podcasts
@@ -174,7 +194,7 @@ All script is provided AS IS with no support or warranties.
 * [Telegram (France)](https://t.me/Bitcore_BTX_France) Bitcore Telegram Channel France
 * [Telegram (Venezuela)](https://t.me/Bitcore_BTX_Vzla) Bitcore Telegram Channel Venezuela
 * [Telegram (Argentina)](https://t.me/bitcore_BTX_ARG) Bitcore Telegram Channel Argentina
-
+* [Telegram **(News)**](https://t.me/BitcoreNEWS) Bitcore Telegram **News** Channel
 
 ## Pools
 * [Antminepool](http://antminepool.com)
@@ -205,7 +225,14 @@ All script is provided AS IS with no support or warranties.
 * [Bitcore converter](https://bitcore.cc/btx-converter) Bitcore Converter (wallet convert 1 -> 2) - Web Version
 * [GeneralBytes](https://github.com/GENERALBYTESCOM/batm_public) ATM Server / Client Software
 * [Mnemonic Code Converter](https://iancoleman.io/bip39) A web tool for converting BIP39 mnemonic codes
-* [Delta Direct](https://delta.app) DELTA Direct ICO & cryptocurrency portfolio tracker
+
+
+## PayByte Payment Plugins
+* [PayByte](https://paybyte.io/) PayByte Homepage
+* [PayByte Payment Button Generator](https://paybyte.io/payment-button-generator) Use our button wizard to create your purchase button. Add your button to your website to accept crypto payments from your website.
+* [PayByte Payment Link Generator](https://paybyte.io/payment-link-generator) Accept crypto with a simple URL. Just share your payment URL or push it into your website and you are good to go.
+* [PayByte Developer API](https://paybyte.io/docapi)Accept crypto with our safe and easy to use developer API. Get paid with a single GET request.
+* [PayByte - Checkout](https://play.google.com/store/apps/details?id=com.setgetgo.setgetgo_android&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1) Point of Sale app easiest way to accept Crypto on mobile devices.
 
 
 ## BTCPay Server and Payment Plugins
@@ -294,6 +321,12 @@ MerkleRoot = 0x1669526520b4e037738825c5f09c01c8f6ef6a3a5ee552e65e6d0141507987c7
 * [Satoshilabs SLIP132/BIP-0032](https://github.com/satoshilabs/slips/blob/master/slip-0132.md#registered-hd-version-bytes) Registered HD version bytes, e.g. xpub, ypub, zpub, Ypub, Zpub
 * [Satoshilabs SLIP-0044/BIP-0044](https://github.com/satoshilabs/slips/blob/master/slip-0044.md) BIP-0044 defines a logical hierarchy for deterministic wallets.
 * [Satoshilabs SLIP173/BIP-0173](https://github.com/satoshilabs/slips/blob/master/slip-0173.md#registered-human-readable-parts) Registered human-readable parts for BIP-0173; for usage in Bech32 encoding of witness programs
+
+
+## Graphic Identity and designs
+
+* [Bitcore BTX graphic identity](https://github.com/dgcarlosleon/Bitcore-BTX-graphic-identity) Bitcore graphic identity rar.package  
+* [Bitcore BTX stand alone graphic identity](https://github.com/dgcarlosleon/Bitcore-BTX-graphics) Bitcore stand alone graphic identity
 
 
 ## Other Awesome Lists
