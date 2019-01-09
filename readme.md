@@ -19,7 +19,7 @@ Contributions are always welcome!
 * [Market Info](#market-info)
 * [Bill Service](#bill-service)
 * [Payment Solutions](#payment-solutions)
-* [Games](#games)
+* [Games Steam and Casino](#games-steam-and-casino)
 * [Videos](#videos)
 * [Articles](#articles)
 * [Portfolio tracker](#portfolio-tracker)
@@ -30,6 +30,7 @@ Contributions are always welcome!
 * [Miner Articles](#miner-articles)
 * [Miner for Bitcore](#miner-for-bitcore)
 * [Tools and Services](#tools-and-services)
+* [Atomicpay](#atomicpay-payment-plugins-api)
 * [PayByte Payment Plugins](#paybyte-payment-plugins)
 * [BTCPay Server and Payment Plugins](#btcpay-server-and-payment-plugins)
 * [Dockers Images](#dockers-images)
@@ -43,7 +44,7 @@ Contributions are always welcome!
 
 ## Introduction
 ### What is Bitcore BTX?
-Bitcore is a Open Source and Peer to Peer Cryptocurreny started in Aril 2017 as a Virtual Fork (UXTO Fork) from Bitcoin.
+Bitcore is a Open Source and Peer to Peer Cryptocurreny started in Aril 2017 as a Hyprid Fork from Bitcoin.
 
 
 ### Warning
@@ -140,9 +141,10 @@ All script is provided AS IS with no support or warranties.
 ## Payment Solutions
 * [BTCPay](#btcpay-server-and-payment-plugins) BTCPay is multi-tenant open-source payment processor
 * [PayByte](#paybyte-payment-plugins) PayByte is a payment processor for accept cryptopayments
+* [Atomicpay](#atomicpay-payment-plugins-api) is a decentralized cryptocurrency payment processor. 
+    -[**How to use with BTX**](https://bitcore.cc/bitcore-btx-is-integrated-into-atomicpay/)
 
-
-## Games
+## Games Steam and Casino
 * [Luckygames](https://luckygames.io) Luckygames is a Multicoin Online Casino
 * [Games4Coins](https://www.games4coins.com) Service to buy Steam keys with BTX
 * [CryptoCrowns](https://www.cryptocrowns.org/) is a cryptocurrency gambling/bettings website platform featuring unique games among other cryptocurrency players.
@@ -151,6 +153,7 @@ All script is provided AS IS with no support or warranties.
 ## Videos
 * [Bitcore Youtube GER](https://www.youtube.com/channel/UCwP0QP-GUKI2l0r6FQQEf_g) Bitcore German Youtube Channel
 * [Bitcore Youtube ENG](https://www.youtube.com/channel/UCQ8pXce5-yN4LCtA6RzcZvQ) Bitcore English Youtube Channel
+* [Bitcore Youtube ESP](https://www.youtube.com/channel/UC9kOaMndaOIVXrBY6S-FzFQ) Bitcore Spanish Youtube Channel
 
 
 ## Articles
@@ -172,6 +175,7 @@ All script is provided AS IS with no support or warranties.
 
 ## Community
 * [Bitcore Twitter](https://twitter.com/Bitcore_BTX) Bitcore Twitter feed
+* [Bitcore Twitter Venezuela (Español)](https://twitter.com/BitcoreBTX_Vzla) Bitcore Español Twitter feed
 * [Bitcore Facebook](https://facebook.com/groups/Bitcore.BTX) Bitcore Facebook Group
 * [Bitcore Reddit](https://www.reddit.com/r/bitcore_btx) Bitcore Reddit
 * [Bitcore Discord](https://discord.gg/9chHgCY) Bitcore Discord Group 
@@ -180,7 +184,9 @@ All script is provided AS IS with no support or warranties.
 
 
 ## Telegram Channels 
-* [Telegram (English)](https://t.me/bitcore_cc) Bitcore Telegram Channel English
+* [Telegram **(News)**](https://t.me/BitcoreNEWS) Bitcore Telegram **News** Channel
+* [Telegram Main Channel (English)](https://t.me/bitcore_cc) Bitcore Telegram **Main** Channel English
+
 * [Telegram (Spanish)](https://t.me/joinchat/CXvK0A9M8q5hIq7fGQiJTQ) Bitcore Telegram Channel Spain
 * [Telegram (Italian)](https://t.me/joinchat/B-3sTw9IXWvKx1R1-IbKyw) Bitcore Telegram Channel Italian
 * [Telegram (German)](https://t.me/Bitcore_BTX_German) Bitcore Telegram Channel German
@@ -190,11 +196,14 @@ All script is provided AS IS with no support or warranties.
 * [Telegram (Ukraine)](https://t.me/bitcoreukraine) Bitcore Telegram Channel Ukraine
 * [Telegram (Bahasa)](https://t.me/BITCORE_BTX_BAHASA) Bitcore Telegram Channel Bahasa
 * [Telegram (Romania)](https://t.me/joinchat/EWnofBKiW7b5G3gftSQ4Cg) Bitcore Telegram Channel Romania
-* [Telegram (Mining)](https://t.me/bitcorepool) Bitcorepool Telegram Channel English
 * [Telegram (France)](https://t.me/Bitcore_BTX_France) Bitcore Telegram Channel France
 * [Telegram (Venezuela)](https://t.me/Bitcore_BTX_Vzla) Bitcore Telegram Channel Venezuela
 * [Telegram (Argentina)](https://t.me/bitcore_BTX_ARG) Bitcore Telegram Channel Argentina
-* [Telegram **(News)**](https://t.me/BitcoreNEWS) Bitcore Telegram **News** Channel
+* [Telegram (Japan)](https://t.me/bitcore_btx_japan) Bitcore Telegram Channel Japan
+* [Telegram (Netherlands)](https://t.me/bitcore_nl) Bitcore Telegram Channel Netherlands
+
+* [Telegram (Mining)](https://t.me/bitcorepool) Bitcorepool Telegram Channel English
+
 
 ## Pools
 * [Antminepool](http://antminepool.com)
@@ -226,6 +235,10 @@ All script is provided AS IS with no support or warranties.
 * [GeneralBytes](https://github.com/GENERALBYTESCOM/batm_public) ATM Server / Client Software
 * [Mnemonic Code Converter](https://iancoleman.io/bip39) A web tool for converting BIP39 mnemonic codes
 
+## Atomicpay Payment Plugins Api
+
+* [Atomicpay API](https://atomicpay.io/api/en) Atomicpay API documentation
+* [Atomicpay Github](https://github.com/atomicpay) Atomicpay Github
 
 ## PayByte Payment Plugins
 * [PayByte](https://paybyte.io/) PayByte Homepage
