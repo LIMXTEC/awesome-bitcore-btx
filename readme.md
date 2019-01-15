@@ -132,7 +132,7 @@ All script is provided AS IS with no support or warranties.
 * [WorldCoinIndex](https://www.worldcoinindex.com/coin/bitcore) Bitcore price index and market cap
 * [CryptoCompare](https://www.cryptocompare.com/coins/btx/overview/USD) Live Bitcore prices, trades and volumes
 * [ATHCoinIndex](https://athcoinindex.com/currencies/bitcore) Bitcore ATH price & market capitalizations 
-
+* [Chainsage](https:(//chainsage.com/assets/btx] Bitcore price & market captializations
 
 ## Bill Service
 * [kamoney](https://www.kamoney.com.br) kamoney for Brazil
