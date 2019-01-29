@@ -287,8 +287,18 @@ SCRIPT_ADDRESS = 125
 SCRIPT_ADDRESS_HEX = 0x7D
 SECRET_KEY (WIF) = 128
 SECRET_KEY_HEX (WIF) = 0x80
-EXT_PUBLIC_KEY = 0x04, 0x88, 0xB2, 0x1E
-EXT_SECRET_KEY = 0x04, 0x88, 0xAD, 0xE4
+XPRV_HEADERS
+        'standard':    0x0488ade4  # xprv
+        'p2wpkh-p2sh': 0x049d7878  # yprv
+        'p2wpkh':      0x04b2430c  # zprv
+        'p2wsh-p2sh':  0x0295b005  # Yprv
+        'p2wsh':       0x02aa7a99  # Zprv
+XPUB_HEADERS
+        'standard':    0x0488b21e  # xpub
+        'p2wpkh-p2sh': 0x049d7cb2  # ypub
+        'p2wpkh':      0x04b24746  # zpub
+        'p2wsh-p2sh':  0x0295b43f  # Ypub
+        'p2wsh':       0x02aa7ed3  # Zpub
 BIP44_PATH = m/44'/160'/0'/
 Genesis = 0x604148281e5c4b7f2487e5d03cd60d8e6f69411d613f6448034508cea52e9574
 MerkleRoot = 0x1669526520b4e037738825c5f09c01c8f6ef6a3a5ee552e65e6d0141507987c7
