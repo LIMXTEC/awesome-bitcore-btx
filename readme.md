@@ -270,6 +270,7 @@ All script is provided AS IS with no support or warranties.
 ## Development Libraries
 * [NBitcoin](https://github.com/MetacoSA/NBitcoin) Bitcoin/altcoin C# library for the .NET framework
 * [pycoin](https://github.com/richardkiss/pycoin) Python-based Bitcoin and alt-coin utility library
+* [python-OP_RETURN](https://github.com/dalijolijo/BTX-OP_RETURN) Simple Python commands and library for using Bitcore BTX OP_RETURNs
 * [crptwav](https://github.com/StrongSquirrel/crptwav) Go library for address validation
 
 
