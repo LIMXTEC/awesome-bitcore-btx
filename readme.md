@@ -250,7 +250,7 @@ All script is provided AS IS with no support or warranties.
 * [PayByte](https://paybyte.io/) PayByte Homepage
 * [PayByte Payment Button Generator](https://paybyte.io/payment-button-generator) Use our button wizard to create your purchase button. Add your button to your website to accept crypto payments from your website.
 * [PayByte Payment Link Generator](https://paybyte.io/payment-link-generator) Accept crypto with a simple URL. Just share your payment URL or push it into your website and you are good to go.
-* [PayByte Developer API](https://paybyte.io/docapi)Accept crypto with our safe and easy to use developer API. Get paid with a single GET request.
+* [PayByte Developer API](https://paybyte.io/docapi) Accept crypto with our safe and easy to use developer API. Get paid with a single GET request.
 * [PayByte - Checkout](https://play.google.com/store/apps/details?id=com.setgetgo.setgetgo_android&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1) Point of Sale app easiest way to accept Crypto on mobile devices.
 
 
@@ -280,6 +280,7 @@ All script is provided AS IS with no support or warranties.
 * [pycoin](https://github.com/richardkiss/pycoin) Python-based Bitcoin and alt-coin utility library
 * [PyWallet](https://github.com/ranaroussi/pywallet) this Python library simplify the process of creating new BIP32 (HD) wallets
 * [python-OP_RETURN](https://github.com/dalijolijo/BTX-OP_RETURN) Simple Python commands and library for using Bitcore BTX OP_RETURNs
+* [EasyBitcore-PHP](https://github.com/dalijolijo/EasyBitcore-PHP) A simple class for making calls to Bitcore's API using PHP
 * [crptwav](https://github.com/StrongSquirrel/crptwav) Go library for address validation
 
 
