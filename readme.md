@@ -46,7 +46,6 @@ Contributions are always welcome!
 ### What is Bitcore BTX?
 Bitcore is a Open Source and Peer to Peer Cryptocurreny started in Aril 2017 as a Hyprid Fork from Bitcoin.
 
-
 ### Warning
 All script is provided AS IS with no support or warranties.
 
@@ -75,6 +74,7 @@ All script is provided AS IS with no support or warranties.
 * [Bitcore electrum](https://github.com/LIMXTEC/electrum-bitcore) Source Code & Windows release
 * [Jaxx Liberty Multi Wallet](https://jaxx.io/jaxx-liberty-beta.html) Jaxx Android, iOS & desktop wallet
 * [ZeltCore Multi Wallet](https://www.zelcore.io/downloads) ZelCore Win, Mac & Linux desktop wallet.
+
 
 ## Hardware Wallets
 * [Trezor](https://trezor.io/coins/#BTX) Hardware Wallet. Bitcore on Trezor works only with Bitcore electrum wallet.
@@ -109,6 +109,7 @@ All script is provided AS IS with no support or warranties.
 * [BitBase](https://www.bitbase.es/) BitBase you can buy / sell your cryptocurrencies physically in their stores or on their website
 * [NovaExchange](https://novaexchange.com/market/BTC_BTX/)
 
+
 ## Auto Exchanges
 * [CryptoChange](https://www.cryptochange.co.za) Cryptochange - South Africa Bitcoin Exchange
 * [Easyrabbit](https://easyrabbit.net/?buy=btx) Easyrabbit - The easiest way to Exchange Cryptocurrencies
@@ -138,11 +139,13 @@ All script is provided AS IS with no support or warranties.
 * [kamoney](https://www.kamoney.com.br) kamoney for Brazil
 * [livingroomofsatoshi](https://livingroomofsatoshi.com) Living Room of Satoshi for Australia
 
+
 ## Payment Solutions
 * [BTCPay](#btcpay-server-and-payment-plugins) BTCPay is multi-tenant open-source payment processor
 * [PayByte](#paybyte-payment-plugins) PayByte is a payment processor for accept cryptopayments
 * [Atomicpay](#atomicpay-payment-plugins-api) is a decentralized cryptocurrency payment processor. 
     -[**How to use with BTX**](https://bitcore.cc/bitcore-btx-is-integrated-into-atomicpay/)
+
 
 ## Games Steam and Casino
 * [Luckygames](https://luckygames.io) Luckygames is a Multicoin Online Casino
@@ -220,6 +223,7 @@ All script is provided AS IS with no support or warranties.
 * [UMine](http://s.umine.org)
 * [Yiimp](http://yiimp.eu)
 
+
 ## Miner Articles
 * [How to Mine Bitcore](https://blockonomi.com/how-to-mine-bitcore/) How to Mine Bitcore (BTX): Complete Beginner’s Guide JULY 16, 2018 from Zach Hildreth
 
@@ -235,10 +239,12 @@ All script is provided AS IS with no support or warranties.
 * [GeneralBytes](https://github.com/GENERALBYTESCOM/batm_public) ATM Server / Client Software
 * [Mnemonic Code Converter](https://iancoleman.io/bip39) A web tool for converting BIP39 mnemonic codes
 
+
 ## Atomicpay Payment Plugins Api
 
 * [Atomicpay API](https://atomicpay.io/api/en) Atomicpay API documentation
 * [Atomicpay Github](https://github.com/atomicpay) Atomicpay Github
+
 
 ## PayByte Payment Plugins
 * [PayByte](https://paybyte.io/) PayByte Homepage
@@ -339,6 +345,7 @@ EXT_SECRET_KEY = 0x04, 0x35, 0x83, 0x94
 Genesis = 0x604148281e5c4b7f2487e5d03cd60d8e6f69411d613f6448034508cea52e9574
 MerkleRoot = 0x1669526520b4e037738825c5f09c01c8f6ef6a3a5ee552e65e6d0141507987c7
 ```
+
 
 ## SLIP and BIP Details
 * [Bitcore coinparams](https://github.com/dan-da/coinparams/blob/master/coins/btx.json) Specific information such as key prefixes, DNS seeds, bip32, bip44, etc, available in JSON format.
