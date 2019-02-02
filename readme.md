@@ -238,6 +238,7 @@ All script is provided AS IS with no support or warranties.
 * [GeneralBytes](https://github.com/GENERALBYTESCOM/batm_public) ATM Server / Client Software
 * [Mnemonic Code Converter](https://iancoleman.io/bip39) A web tool for converting BIP39 mnemonic codes
 * [hd-wallet-derive](https://github.com/dan-da/hd-wallet-derive) A command-line tool that derives bip32 addresses and private keys
+* [FindHiddenMessage](https://github.com/dalijolijo/FindHiddenMessage) Find and decode hidden messages in Bitcore's blockchain explorer
 
 
 ## Atomicpay Payment Plugins Api
@@ -277,6 +278,7 @@ All script is provided AS IS with no support or warranties.
 ## Development Libraries
 * [NBitcoin](https://github.com/MetacoSA/NBitcoin) Bitcoin/altcoin C# library for the .NET framework
 * [pycoin](https://github.com/richardkiss/pycoin) Python-based Bitcoin and alt-coin utility library
+* [PyWallet](https://github.com/ranaroussi/pywallet) this Python library simplify the process of creating new BIP32 (HD) wallets
 * [python-OP_RETURN](https://github.com/dalijolijo/BTX-OP_RETURN) Simple Python commands and library for using Bitcore BTX OP_RETURNs
 * [crptwav](https://github.com/StrongSquirrel/crptwav) Go library for address validation
 
