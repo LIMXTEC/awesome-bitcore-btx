@@ -15,6 +15,7 @@ Contributions are always welcome!
 * [Explorer](#explorer)
 * [Exchanges](#exchanges)
 * [Auto Exchanges](#auto-exchanges)
+* [Portfolio tracker](#portfolio-tracker)
 * [Buy with FIAT](#buy-with-fiat)
 * [Market Info](#market-info)
 * [Bill Service](#bill-service)
@@ -22,7 +23,6 @@ Contributions are always welcome!
 * [Games Steam and Casino](#games-steam-and-casino)
 * [Videos](#videos)
 * [Articles](#articles)
-* [Portfolio tracker](#portfolio-tracker)
 * [Podcasts](#podcasts)
 * [Community](#community)
 * [Telegram Channels](#telegram-channels)
@@ -33,7 +33,7 @@ Contributions are always welcome!
 * [Atomicpay](#atomicpay-payment-plugins-api)
 * [PayByte Payment Plugins](#paybyte-payment-plugins)
 * [BTCPay Server and Payment Plugins](#btcpay-server-and-payment-plugins)
-* [Dockers Images](#dockers-images)
+* [Dockers Solutions](#dockers-images)
 * [Development Libraries](#development-libraries)
 * [Network Details](#network-details)
 * [SLIP and BIP Details](#slip-and-bip-details)
@@ -118,7 +118,6 @@ All script is provided AS IS with no support or warranties.
 
 
 ## Portfolio tracker
-
 * [Cryptonaut](https://www.cryptonaut.org) Easily track your cryptocurrency portfolio 
 * [Delta Direct](https://delta.app) DELTA Direct ICO & cryptocurrency portfolio tracker
 
@@ -238,10 +237,10 @@ All script is provided AS IS with no support or warranties.
 * [Bitcore converter](https://bitcore.cc/btx-converter) Bitcore Converter (wallet convert 1 -> 2) - Web Version
 * [GeneralBytes](https://github.com/GENERALBYTESCOM/batm_public) ATM Server / Client Software
 * [Mnemonic Code Converter](https://iancoleman.io/bip39) A web tool for converting BIP39 mnemonic codes
+* [hd-wallet-derive](https://github.com/dan-da/hd-wallet-derive) A command-line tool that derives bip32 addresses and private keys
 
 
 ## Atomicpay Payment Plugins Api
-
 * [Atomicpay API](https://atomicpay.io/api/en) Atomicpay API documentation
 * [Atomicpay Github](https://github.com/atomicpay) Atomicpay Github
 
@@ -266,11 +265,13 @@ All script is provided AS IS with no support or warranties.
 * [BTCPay Prestashop integration](https://github.com/btcpayserver/btcpayserver-doc/blob/master/FAQ.md#how-to-use-btcpay-with-prestashop) How to use BTCPay with Prestashop?
 
 
-## Dockers Images
+## Dockers Solutions
 * [Bitcore Insight Explorer](https://github.com/LIMXTEC/BTXinsight-docker) Bitcore Insight Explorer Docker Solution [(Docker Image)](https://hub.docker.com/r/limxtec/btx-insight-docker)
 * [Bitcore RPC Server](https://github.com/LIMXTEC/Bitcore-BTX-RPC-Installer) Run a Bitcore RPC Server in a Docker Container [(Docker Image)](https://hub.docker.com/r/limxtec/btx-rpc-server)
 * [Bitcore Seeder](https://github.com/LIMXTEC/bitcore-seeder) Seeder for the Bitcore BTX Network [(Docker Image)](https://hub.docker.com/r/limxtec/bitcore-seeder)
 * [ElectrumX Server](https://github.com/LIMXTEC/electrumx/tree/master/docker) ElectrumX Server + Bitcore RPC Server Docker Solution [(Docker Image)](https://hub.docker.com/r/limxtec/electrumx)
+* [Bitcore-Node-Manager](https://github.com/dalijolijo/bitcore-node-manager/tree/master/docker) Lightweight dashboard and control system for your BitCore node
+* [Bitsee for Bitcore as Docker Solution](https://github.com/dalijolijo/bitsee/tree/master/docker) Bitsee BTX blockchain embedded data extractor/viewer
 
 
 ## Development Libraries
