@@ -33,7 +33,7 @@ Contributions are always welcome!
 * [Atomicpay](#atomicpay-payment-plugins-api)
 * [PayByte Payment Plugins](#paybyte-payment-plugins)
 * [BTCPay Server and Payment Plugins](#btcpay-server-and-payment-plugins)
-* [Dockers Solutions](#dockers-images)
+* [Dockers Solutions](#dockers-solutions)
 * [Development Libraries](#development-libraries)
 * [Network Details](#network-details)
 * [SLIP and BIP Details](#slip-and-bip-details)
