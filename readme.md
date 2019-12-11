@@ -129,6 +129,8 @@ All script is provided AS IS with no support or warranties.
 
 ## Market Info
 * [CoinMarketCap](https://coinmarketcap.com/currencies/bitcore) Bitcore Ranking by Market Capitalization
+* [coinpaprika](https://coinpaprika.com/coin/btx-bitcore) Detailed information about Bitcore
+* [CoinGecko](https://www.coingecko.com/en/coins/bitcore) Detailed information about Bitcore
 * [WorldCoinIndex](https://www.worldcoinindex.com/coin/bitcore) Bitcore price index and market cap
 * [CryptoCompare](https://www.cryptocompare.com/coins/btx/overview/USD) Live Bitcore prices, trades and volumes
 * [ATHCoinIndex](https://athcoinindex.com/currencies/bitcore) Bitcore ATH price & market capitalizations 
