@@ -91,40 +91,20 @@ All script is provided AS IS with no support or warranties.
 
 
 ## Exchanges
-* [Bitexlive](https://bitexlive.com/exchange/BTC-BTX)
-* [Bitibu](https://bitibu.com)
-* [BITSTEN](https://bitsten.com/exchange/btx_btc)
-* [Bit-Z](https://www.bit-z.com/trade/btx_btc)
+* [XT](https://www.xt.com/trade/btx_btc)
 * [CREX24](https://crex24.com/en/exchange/BTX-BTC)
-* [Cryptopia](https://www.cryptopia.co.nz/Exchange/?market=BTX_BTC)
-* [Crypto-Bridge](https://wallet.crypto-bridge.org/market/BRIDGE.BTX_BRIDGE.BTC)
-* [Coinexchange](https://www.coinexchange.io/market/BTX/BTC)
-* [Excoincial](https://www.excoincial.com)
-* [EXRATES](https://exrates.me/dashboard) with [AndroidApp](https://play.google.com/store/apps/details?id=lk.exrates.me) and [AppleApp](https://itunes.apple.com/ua/app/exratesme/id1163197277)
+* [Graviex](https://graviex.net/markets/btxbtc)
 * [HitBTC](https://hitbtc.com/BTX-to-BTC)
 * [Komodo BarterDEX](https://komodoplatform.com/decentralized-exchange) Decentralized Exchange (DEX)
-* [QBTC](https://www.myqbtc.com) - Chinese exchange
-* [Tradesatoshi](https://tradesatoshi.com/Exchange/?market=BTX_BTC)
-* [Vebitcoin](https://www.vebitcoin.com)
-* [BitBase](https://www.bitbase.es/) BitBase you can buy / sell your cryptocurrencies physically in their stores or on their website
-* [NovaExchange](https://novaexchange.com/market/BTC_BTX/)
 
 
 ## Auto Exchanges
-* [CryptoChange](https://www.cryptochange.co.za) Cryptochange - South Africa Bitcoin Exchange
-* [Easyrabbit](https://easyrabbit.net/?buy=btx) Easyrabbit - The easiest way to Exchange Cryptocurrencies
 * [InstaSwap](https://instaswap.io) InstaSwap - Simple. Fast. Secure.
-* [SimpleSwap](https://simpleswap.io/) Swap more than 200 cryptocurrencies for $BTX free from sign up, limits or other complications
 
 
 ## Portfolio tracker
-* [Cryptonaut](https://www.cryptonaut.org) Easily track your cryptocurrency portfolio 
-* [Delta Direct](https://delta.app) DELTA Direct ICO & cryptocurrency portfolio tracker
-
-
-## Buy with FIAT 
-* [Indacoin](https://indacoin.com) Buy Cryptocurrency Instantly
-* [PayCml](https://www.paycml.com) - Turkish
+* [Blockfolio](https://blockfolio.com/) Easily track your cryptocurrency portfolio 
+* [Delta](https://delta.app) Delta ICO & cryptocurrency portfolio tracker
 
 
 ## Market Info
